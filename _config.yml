@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Erik Nordquist"
-title_separator          : "~"
+title_separator          : "-"
 name                     : &name "Erik Nordquist"
 description              : &description "Homepage of Erik Nordquist"
 url                      : https://eriknordquist.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
