@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erik Nordquist"
   avatar           : "profile.png"
-  bio              : "I'm a grad student at UMass Amherst, studying computational biophysics and building models of protein function by integrating physics-based simulations and experiments using statistical learning."
+  bio              : "I'm studying computational biophysics and building predictive models of protein function. My goal is to become a Prof. of Physical Chemistry."
   location         : "UMass Amherst"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
