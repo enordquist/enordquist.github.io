@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erik Nordquist"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Erik Nordquist"
-description              : &description "Homepage of Erik Nordquist"
-url                      : https://eriknordquist.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "enordquist.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erik Nordquist"
-  avatar           : "avatar.jpg"
-  bio              : "I'm a grad student at UMass Amherst. I am studying computational biophysics and building models of protein function by integrating physics-based simulations and experiments using statistical learning."
-  location         : "UMass Amherst"
-  employer         : 
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=50NIkf0AAAAJ"
-  email            : "erikbnordquist@gmail.com"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "enordquist"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "enordquist"
-  orcid            : "http://orcid.org/0000-0001-9139-0152"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "erik_nordquist"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCfoPDaiMX0CJ2JjKGDT-VMQ"
+  youtube          :
   wikipedia        :
 
 
