@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Erik Nordquist"
-  avatar           : #"avatar.jpg"
+  avatar           : "avatar.jpg"
   bio              : "I'm a grad student at UMass Amherst. I am studying computational biophysics and building models of protein function by integrating physics-based simulations and experiments using statistical learning."
-  location         : "Amherst, MA"
-  employer         : "UMass Amherst"
+  location         : "UMass Amherst"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=50NIkf0AAAAJ"
   email            : "erikbnordquist@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "eriknordquist"
+  linkedin         : "enordquist"
   orcid            : "http://orcid.org/0000-0001-9139-0152"
   pinterest        :
   soundcloud       :
