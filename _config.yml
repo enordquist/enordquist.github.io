@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Erik Norduqist"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "I'm a computational biophysics grad student building predictive models of protein function by integrating physics-based simulations and experiments with statistical learning."
   location         : "UMass Amherst"
   employer         :
