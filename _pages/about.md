@@ -14,7 +14,9 @@ I'm currently learning a lot in Jianhan Chen's [computational biophysics lab](ht
 
 Where I'd like to get: Professor
 ---
-I enjoy thinking about and doing science, as well as talking to others about it and explaining it to people to people experiencing it for the first time. I plan to continue to prepare myself for a career as a professor at a PUI until I can be competitive to land my 'dream position'. I envision using a small, student- and/or course-focused research program to enhance the learning of core concepts as well as the power and flexibility of the scientific method.
+I enjoy thinking about and doing science, as well as talking to others about it and explaining it to people to people experiencing it for the first time. 
+I plan to continue to prepare myself for a 'dream position' a professor at a primarily undergraduate-serving institution.
+I envision using a small, student- and/or course-focused research projects to enhance the learning of core concepts as well as the power and flexibility of the scientific method.
 
 Where I've been: The College of Idaho, a Liberal Arts Background
 ---
