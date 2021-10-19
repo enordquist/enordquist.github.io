@@ -2,7 +2,7 @@
 title: 'Training Courses'
 date: 2021-10-01
 permalink: /posts/2021/10/training
-location: 'virtual'
+venue: 'CIRTL / edX'
 type: 'training'
 tags:
   - training
