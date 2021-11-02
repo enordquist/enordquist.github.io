@@ -16,7 +16,8 @@ Where I'd like to get: Professor
 ---
 I enjoy thinking about and doing science, as well as talking to others about it and explaining it to people to people experiencing it for the first time. 
 I plan to continue to prepare myself for a 'dream position' a professor at a primarily undergraduate-serving institution.
-I envision using a small, student- and/or course-focused research projects to enhance the learning of core concepts as well as the power and flexibility of the scientific method.
+I'm excited to use small research projects to enhance the learning experience.
+I'm learning while [mentoring undergraduates](teaching/mentoring) and serving as a [JEI reviewer](https://www.emerginginvestigators.org/) that computational biophysics and even quantum chemistry lends itself nicely to clean, compartmentalized projects.
 
 Where I've been: The College of Idaho, a Liberal Arts Background
 ---
