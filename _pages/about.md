@@ -19,7 +19,7 @@ I plan to continue to prepare myself for a 'dream position' a professor at a pri
 I'm excited to use small research projects to enhance the learning experience.
 I'm learning while [mentoring undergraduates](teaching/mentoring) and serving as a [JEI reviewer](https://www.emerginginvestigators.org/) that computational biophysics and even quantum chemistry lends itself nicely to clean, compartmentalized projects.
 
-Where I've been: The College of Idaho, a Liberal Arts Background
+Where I've been: The College of Idaho, a liberal arts background
 ---
 I majored in Physics and Chemistry at [the College of Idaho](https://collegeofidaho.edu) and graduated in 2018. I also studied Computer Science, History and Philosophy. I really enjoyed the liberal arts education model and believe I benefited greatly from it. I also ran [XC and track](https://yoteathletics.com/sports/mens-cross-country/roster/2017) and learned to swim. Caldwell is ~120 mi from my hometown, Jerome ID, and it's where I met my wife Zoe and near where we were married in 2020.
 
