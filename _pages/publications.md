@@ -16,6 +16,7 @@ author_profile: true
 <ol reversed>
 <li>
 Nordquist, E. (2021). "Physics-Based Modeling Provides Predictive Understanding of Selectively Promiscuous Substrate Binding by Hsp70 Chaperones" PLoS Comput Biol 17(11):e1009567.
+<a href="https://pubmed.ncbi.nlm.nih.gov/34735438/">PubMed</a>  <a href="https://dx.doi.org/10.1002/jcc.26133">DOI</a>
 <a href="https://doi.org/10.1371/journal.pcbi.1009567">DOI</a>
 </li>
 
