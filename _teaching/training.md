@@ -11,7 +11,7 @@ tags:
 ---
 
 I have taken several courses associated with CIRTL on the online learning platform edX, including:
-* [Introduction to Evidence-based Undergraduate STEM Teaching](../posts/2021/11/IEBT)
+* [Introduction to Evidence-based Undergraduate STEM Teaching](../posts/2021/10/IEBT)
 * [The Inclusive STEM Teaching Project](../posts/2021/07/ISTP)
 
 You can read more about these courses in their 'news' pages on my website (links above) or you can go directly to
