@@ -22,7 +22,7 @@ Nordquist, E. (2021). "Physics-Based Modeling Provides Predictive Understanding 
 
 <li>
 Gong, X., et al. Accelerating the Generalized Born with Molecular Volume and Solvent Accessible Surface Area Implicit Solvent Model Using Graphics Processing Units J Comput Chem. 2020 Mar 30;41(8):830-838. 
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7076883/">PubMed</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31875339/">PubMed</a>
 <a href="https://doi.org/10.1002/jcc.26133">DOI</a>
 </li>
 
