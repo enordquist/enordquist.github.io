@@ -10,7 +10,7 @@ redirect_from:
 
 Where am I now: Grad School at UMass Amherst
 -----
-I'm currently getting a PhD in Jianhan Chen's [computational biophysics lab](https://people.chem.umass.edu/jchenlab/main.html). We primarily use a computational technique called Molecular Dynamics, with which we simulate the motions of biological molecules like proteins and use the resulting simulations to answer questions about how protein dynamics (aka wiggles) help them to perform their various functions. My dissertations revovles around building predictive models of protein function by integrating simulations, experiments and statistical learning.
+I'm currently getting a PhD in Jianhan Chen's [computational biophysics lab](https://people.chem.umass.edu/jchenlab/main.html). We primarily use a computational technique called Molecular Dynamics, with which we simulate the motions of biological molecules like proteins and use the resulting simulations to answer questions about how protein dynamics (aka wiggles) help them to perform their various functions. My dissertation revovles around building predictive models of protein function by integrating simulations, experiments and statistical learning.
 
 
 Where I'd like to get: Professor
