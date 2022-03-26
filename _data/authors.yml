@@ -1,13 +1,18 @@
 # Authors
 
-Name Name:
-  name        : "Erik Nordquist"
-  uri         : "https://eriknordquist.com"
-  email       : "erikbnordquist@gmail.com"
-  bio         : "This is the first name."
-  avatar      : "profile.png"
-  twitter     : "erik-nordquist"
-  google_plus : #"Name"
+Erik Nordquist:
+  name            : "Erik Nordquist"
+  url             : "https://eriknordquist.com"
+  email           : "enordquist@umass.edu" #"erikbnordquist@gmail.com"
+  bio             : "sitemaster"
+  avatar          : "/images/avatars/erik.png"
+  twitter         : "erik-nordquist"
+  googlescholar   : "https://scholar.google.com/citations?hl=en&user=50NIkf0AAAAJ"
+  orcid           : "http://orcid.org/0000-0001-9139-0152"
+  youtube         : "UCfoPDaiMX0CJ2JjKGDT-VMQ"
+
+
+  
 
 Name2 Name2:
   name        : "Name2 Name2"
