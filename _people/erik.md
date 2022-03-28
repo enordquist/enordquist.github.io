@@ -5,4 +5,4 @@ category: Principle Instigator
 tags:
 ---
 
-This website, [eriknordquist.com](eriknordquist.com), is my website.
+This website, [eriknordquist.com](https://eriknordquist.com), is my website.
