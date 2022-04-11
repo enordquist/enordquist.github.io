@@ -88,8 +88,8 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=50NIkf0AAAAJ"
   email            : "enordquist@umass.edu" #"erikbnordquist@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : #"eriknordquist.com"
   bitbucket        :
   codepen          :
   dribbble         :
