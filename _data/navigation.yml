@@ -3,16 +3,16 @@ main:
   - title: "Research"
     url: /research/
  
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching / Mentoring"
+    url: /teaching/    
+ 
   - title: "CV"
     url: /cv/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
    
 #  - title: "People"
