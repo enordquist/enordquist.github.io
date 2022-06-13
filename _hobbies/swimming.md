@@ -1,6 +1,6 @@
 ---
 title: "Swimming"
-excerpt: "I am learning how to swim <br/><img src='https://i9.ytimg.com/vi/XEAqyCtxzh8/mq1.jpg?sqp=COjnmpUG&rs=AOn4CLAWFVEtJ9V6dYDCSC3y6EU9_CDVfQ'><br/>"
+excerpt: "I am learning how to swim <br/><img src='/images/hobbies/swim.jpg'><br/>"
 category: Exercise
 permalink: /hobbies/swimming
 ---
