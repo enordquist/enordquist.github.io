@@ -1,4 +1,5 @@
-# main links links
+# main navigation links
+# this page is very sensitive to indents/spaces and comments must come at the end!!
 main:
   - title: "Research"
     url: /research/
@@ -12,11 +13,13 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Presentations"
-    url: /talks/    
-   
-#  - title: "People"
-#    url: /people/
-
   - title: "News"
     url: /news/
+
+  - title: "Hobbies"
+    url: /hobbies/
+
+#  - title: "People"
+#    url: /people/
+#  - title: "Presentations"
+#    url: /talks/    

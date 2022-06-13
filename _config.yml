@@ -87,7 +87,7 @@ author:
   employer         : "UMass Amherst Chemistry"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=50NIkf0AAAAJ"
-  email            : "erikbnordquist@gmail.com" #"enordquist@umass.edu"
+  email            : "enordquist@umass.edu" #"erikbnordquist@gmail.com" 
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"eriknordquist.com"
   bitbucket        :
@@ -191,6 +191,9 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
+  hobbies:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -252,6 +255,14 @@ defaults:
   - scope:
       path: ""
       type: people
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _people
+  - scope:
+      path: ""
+      type: hobbies
     values:
       layout: single
       author_profile: true
