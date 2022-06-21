@@ -7,7 +7,7 @@ venue: "UMass"
 date: 2022-06-20
 location: "Amherst, USA"
 
-excerpt: "Effective scientific storytelling is similar to a fairy-tale.<br> <img src='/images/storytelling.png' width='500' height='300'><br>"
+excerpt: "Effective scientific storytelling is similar to telling a fairy-tale.<br> <img src='/images/storytelling.png' width='500' height='300'><br>"
 tags:
   - evidence-based-teaching
 ---
