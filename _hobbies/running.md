@@ -9,4 +9,4 @@ I started getting really in to running in middle school, and gradually improved 
 I even ran at C of I, and did pretty well... sometimes.
 
 
-<img src='/images/hobbies/erik.png' width='250' height='150'>
+<img src='/images/hobbies/run.jpg' width='250' height='150'>
