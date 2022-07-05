@@ -13,7 +13,7 @@ name                     : &name "Erik Nordquist"
 description              : &description "Homepage of Erik Nordquist"
 url                      : "https://eriknordquist.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "enordquist.github.io"
+repository               : "enordquist/enordquist.github.io"
 teaser                   : "favicon/apple-touch-icon.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -72,8 +72,10 @@ social:
 
 
 # Analytics
+# google-universal was sunset in 2022, migrated to google-analytics-4 (GA4)
+# and I just copied the necessary html block into: _includes/seo.html
 analytics:
-  provider               :  false # false (default), "google", "google-universal", "custom"
+  provider               :  false # "google-analytics-4" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
