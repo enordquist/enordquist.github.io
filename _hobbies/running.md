@@ -1,6 +1,6 @@
 ---
 title: "Running"
-excerpt: "I (used to) run a lot<br/><img src='/images/hobbies/erik.png' width='250' height='150'><br/>"
+excerpt: "I (used to) run a lot<br/><img src='/images/hobbies/run.jpg' width='250' height='150'><br/>"
 category: Exercise
 permalink: /hobbies/running
 ---
