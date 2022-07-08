@@ -73,7 +73,7 @@ social:
 
 # Analytics
 # google-universal was sunset in 2022, migrated to google-analytics-4 (GA4)
-# and I just copied the necessary html block into: _includes/seo.html
+# and I just copied the necessary html block into: _includes/head.html
 analytics:
   provider               :  false # "google-analytics-4" # false (default), "google", "google-universal", "custom"
   google:
