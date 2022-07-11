@@ -9,18 +9,36 @@ I like to unwind my listening to some podcasts and learning something to discuss
 
 
 ## Basketball
-<a src='https://open.spotify.com/show/4uEA3lPBibUlrPOciIMCRY'>The Draymond Green Show<a/> <br>
-<a src='https://open.spotify.com/show/5vMLIaAcXeWUpXRpUt5qXY'>The Old Man and the Three<a/> <br>
-<a src='https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg'>Clayton Crowley<a/> <br>
+[The Draymond Green Show](https://open.spotify.com/show/4uEA3lPBibUlrPOciIMCRY)
+<br>
+[The Old Man and the Three](https://open.spotify.com/show/5vMLIaAcXeWUpXRpUt5qXY)
+<br>
+[Clayton Crowley](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
+<br>
+[The NBA Storyteller](https://www.youtube.com/c/THENBASTORYTELLER)
 
 ## Mathematics and Science 
-<a src='https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ'>In Our Time<a/> <br>
-<a src='https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw'>3 Blue 1 Brown<a/> <br>
-<a src='https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg'>Computerphile<a/> <br>
-<a src='https://www.youtube.com/c/numberphile'>Numberphile<a/> <br>
-<a src='https://www.youtube.com/user/steventhebrave'>Steve Mould<a/> <br>
-<a src='https://www.youtube.com/user/msadaghd'>ElectroBOOM<a/> <br>
+[In Our Time](https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ)
+<br>
+[3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+<br>
+[Computerphile](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
+<br>
+[Numberphile](https://www.youtube.com/c/numberphile)
+<br>
+[Steve Mould](https://www.youtube.com/user/steventhebrave)
+<br>
+[ElectroBOOM](https://www.youtube.com/user/msadaghd)
+
+## History, Philosophy, Religion
+[In Our Time](https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ)
+<br>
+[Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
+<br>
+[Bible Project](https://bibleproject.com)
+<br>
+[Al Muqaddimah](https://www.youtube.com/c/AlMuqaddimah)
 
 ## Making stuff
-<a src='https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg'>I did a thing<a/> <br>
-<a src='https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ'>Stuff Made Here<a/> <br>
+[Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)<br>
+[I did a thing](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
