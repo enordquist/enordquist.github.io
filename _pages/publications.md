@@ -21,7 +21,7 @@ author_profile: true
 <a href=""></a>
 </li>
 <li>
-<b>Nordquist E</b>, Schultz S, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. JPC B (submitted).
+<b>Nordquist E*</b>, Schultz S*, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. JPC B (submitted).
 <a href="">DOI</a>
 <a href=""></a>
 </li>
