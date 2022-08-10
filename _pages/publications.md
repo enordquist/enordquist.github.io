@@ -21,12 +21,12 @@ author_profile: true
 <a href=""></a>
 </li>
 <li>
-<b>Nordquist E*</b>, Schultz S*, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. JPC B (submitted).
+<b>Nordquist E*</b>, Schultz S*, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. JPC B (accepted).
 <a href="">DOI</a>
 <a href=""></a>
 </li>
 <li>
-<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. (submitted) JPC B, 2022. Special edition in memory of <a href="https://en.wikipedia.org/wiki/Harold_Scheraga">Harold Scheraga</a>.
+<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. (accepted) JPC B, 2022. Special edition in memory of <a href="https://en.wikipedia.org/wiki/Harold_Scheraga">Harold Scheraga</a>.
 <a href="">DOI</a>
 </li>
 <hr>
