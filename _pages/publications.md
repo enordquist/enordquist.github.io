@@ -22,7 +22,7 @@ author_profile: true
 </li>
 <li>
 <b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. JPC B, 2022. Special edition in memory of <a href="https://en.wikipedia.org/wiki/Harold_Scheraga">Harold Scheraga</a>.
-<a href="">DOI</a>
+<a href="https://doi.org/10.1021/acs.jpcb.2c03806">DOI</a>
 </li>
 <li>
 <b>Nordquist E#</b>, Schultz S#, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. JPC B 2022.
