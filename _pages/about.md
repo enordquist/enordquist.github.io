@@ -10,9 +10,9 @@ redirect_from:
 
 What am I doing: Grad School at UMass Amherst 
 -----
-<img align='right' height='300' alt='2015_Fall_Campus_mkt__MG_9361.jpeg' src='https://umassamherst.widen.net/content/ryge1uyati/jpeg/2015_Fall_Campus_mkt__MG_9361.jpeg?h=300&keep=c&crop=yes&color=cccccc&quality=80'>
+<img align='right' width='350' alt='UMass Campus' src='https://umassamherst.widen.net/content/kwpnbgxybm/jpeg/2015_Fall_Campus_mkt__MG_9474.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80'>
 
-I'm currently getting a PhD in Jianhan Chen's [computational biophysics lab](https://people.chem.umass.edu/jchenlab/main.html). We primarily use a computational technique called Molecular Dynamics, with which we simulate the motions of biological molecules like proteins and use the resulting simulations to answer questions about how protein dynamics (aka wiggles) help them to perform their various functions. My dissertation revovles around building predictive models of protein function by integrating simulations, experiments using techniques of statistical inference.
+I'm currently getting a PhD in Jianhan Chen's [computational biophysics lab](https://people.chem.umass.edu/jchenlab/main.html). We primarily use a computational technique called Molecular Dynamics, with which we simulate the motions of biological molecules like proteins and use the resulting simulations to answer questions about how protein dynamics (aka wiggles) help them to perform their various functions. My dissertation revovles around building predictive models of protein function by integrating simulations and experiments using techniques of statistical inference.
 
 
 Long-term goal: Professor at PUI
