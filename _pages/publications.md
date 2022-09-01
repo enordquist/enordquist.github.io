@@ -5,21 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
 <!--- reverse ordered list in html, not an 'easy' way to do this in markdown -->
 <br>
 <ol reversed>
 <h2 style='margin-top:0'>2022</h2>
-<li>
-<b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls activation of the big potassium channels. (in preparation).
-<a href="">DOI</a>
-<a href=""></a>
-</li>
+
 <li>
 <b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. JPC B, 2022. Special edition in memory of <a href="https://en.wikipedia.org/wiki/Harold_Scheraga">Harold Scheraga</a>.
 <a href="https://doi.org/10.1021/acs.jpcb.2c03806">DOI</a>
