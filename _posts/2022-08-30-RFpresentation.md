@@ -12,7 +12,7 @@ For my recent presentation at the UMass Chemistry ResearchFest, I was awarded th
 
 
 <img src="/images/rf2022/erik4.jpg"        width="500">
-<img src="/images/rf2022/erikjianhan2.jpg" width="500" style="float:right"/><br>
+<!--<img src="/images/rf2022/erikjianhan2.jpg" width="500" style="float:right"/><br>-->
 
 Some key take-aways:
 ------
