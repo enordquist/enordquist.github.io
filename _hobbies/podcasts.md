@@ -5,7 +5,7 @@ category: Entertainment
 permalink: /hobbies/podcasts
 ---
 
-I like to unwind my listening to some podcasts and learning something to discuss or think about.
+I like to unwind by listening to some podcasts and learning something to discuss or think about.
 
 
 ## Basketball
