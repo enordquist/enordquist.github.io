@@ -22,9 +22,9 @@ I like to unwind by listening to some podcasts and learning something to discuss
 <br>
 [3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 <br>
-[Computerphile](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
-<br>
 [Numberphile](https://www.youtube.com/c/numberphile)
+<br>
+[Computerphile](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
 <br>
 [Steve Mould](https://www.youtube.com/user/steventhebrave)
 <br>
@@ -41,4 +41,5 @@ I like to unwind by listening to some podcasts and learning something to discuss
 
 ## Making stuff
 [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)<br>
+<br>
 [I did a thing](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)

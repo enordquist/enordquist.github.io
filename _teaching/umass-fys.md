@@ -14,11 +14,11 @@ tags:
 
 Key topics for the course:
 1. "Think like a scientist"
-  1. Scientific storytelling skills for effective communication
-  2. Parse and interpret technical information
-  3. Formulate scientific quesitons
-  4. Conduct mini research projects
+  * Scientific storytelling skills
+  * Formulate scientific questions
+  * Conduct mini research projects
+  * Assessments included mini-storytelling writings/presentations, and a long final project and presentation
 2. "Hidden cirriculum" of college
-  1. Who are professors?
-  2. Time-management
-  3. Emotional balance
+  * Who are professors?
+  * Time-management and test-taking skills
+  * What resources are available to help students?

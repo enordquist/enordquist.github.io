@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Erik Nordquist"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate, computational biophysics. 艾瑞克"
+  bio              : "PhD candidate, computational biophysics." # 艾瑞克
   location         : #"Amherst MA"
   employer         : "UMass Amherst Chemistry"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
