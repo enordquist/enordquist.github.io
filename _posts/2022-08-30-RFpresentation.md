@@ -11,9 +11,7 @@ tags:
 For my recent presentation at the UMass Chemistry ResearchFest, I was awarded the second-place award, a great honor and a generous monetary prize. I was among 4 student speakers selected for the highly-competitive presentations each year. One senior student per lab can be nominated. I was following in the tradition of the great Xiaorong Liu, who spoke at my first ResearchFest in 2018. 
 
 
-<img src="/images/rf2022/erikrick.jpg"        width="500"><br>
 <img src="/images/rf2022/award.jpg" width="500"/><br>
-<!--<img src="/images/rf2022/erikjianhan2.jpg" width="500" style="float:right"/><br>-->
 
 Some key take-aways:
 ------

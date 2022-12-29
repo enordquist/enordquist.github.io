@@ -40,6 +40,6 @@ I like to unwind by listening to some podcasts and learning something to discuss
 [Al Muqaddimah](https://www.youtube.com/c/AlMuqaddimah)
 
 ## Making stuff
-[Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)<br>
+[Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
 <br>
 [I did a thing](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)

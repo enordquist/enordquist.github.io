@@ -22,3 +22,5 @@ Key topics for the course:
   * Who are professors?
   * Time-management and test-taking skills
   * What resources are available to help students?
+
+Check-out how it went [here](posts/2022/12/1stclass).
