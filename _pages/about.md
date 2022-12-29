@@ -20,6 +20,6 @@ I'm currently getting a PhD in Jianhan Chen's <a href="https://people.chem.umass
 Long-term goal: Professor at PUI
 ---
 <div style="text-align: justify">
-I am working towards my 'dream position': professor at a primarily undergraduate-serving institution teaching physical chemistry and using a small research program to enhance the learning experience of my students.
+I am working towards becoming a professor at a primarily undergraduate-serving institution teaching physical chemistry and using a small research program to enhance the learning experience of my students.
 While <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding freshmen through mini-projects</a> that computational chemistry lends itself nicely to compartmentalized projects with minimal costs or required materials.
 </div>
