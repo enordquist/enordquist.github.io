@@ -7,9 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-<!--- reverse ordered list in html, not an 'easy' way to do this in markdown -->
+<!--- reverse ordered list in html, not an 'easy' way to do this in markdown without another package -->
 <br>
 <ol reversed>
+<h2 style='margin-top:0'>2023</h2>
+<li>
+<b>Nordquist E</b>, Zhiguang J, Chen J. Inner pore hydration free energy controls the activation of the big potassium channel and its mutants. Biophys J. (submitted).
+<a href="">DOI</a>
+</li>
+
 <h2 style='margin-top:0'>2022</h2>
 
 <li>
@@ -25,14 +31,14 @@ author_profile: true
 <hr>
 <h2 style='margin-top:0'>2021</h2>
 <li>
-<b>Nordquist E</b>, English C, Clerico E, Sherman W, Gierasch L, and Chen J. Physics-Based Modeling Provides Predictive Understanding of Selectively Promiscuous Substrate Binding by Hsp70 Chaperones. PLoS Comput Biol, 2021.
+<b>Nordquist E</b>, English C, Clerico E, Sherman W, Gierasch L, and Chen J. Physics-based modeling provides predictive understanding of selectively promiscuous substrate binding by Hsp70 chaperones. PLoS Comput Biol, 2021.
 <a href="https://pubmed.ncbi.nlm.nih.gov/34735438/">PubMed</a>
 <a href="https://doi.org/10.1371/journal.pcbi.1009567">DOI</a>
 </li>
 <hr>
 <h2 style='margin-top:0'>2020</h2>
 <li>
-Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accelerating the Generalized Born with Molecular Volume and Solvent Accessible Surface Area Implicit Solvent Model Using Graphics Processing Units. J Comput Chem, 2020. 
+Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accelerating the generalized born with molecular volume and solvent accessible surface area implicit solvent model using graphics processing units. J Comput Chem, 2020. 
 <a href="https://pubmed.ncbi.nlm.nih.gov/31875339/">PubMed</a>
 <a href="https://doi.org/10.1002/jcc.26133">DOI</a>
 </li>
