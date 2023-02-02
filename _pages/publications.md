@@ -12,7 +12,7 @@ author_profile: true
 <ol reversed>
 <h2 style='margin-top:0'>2023</h2>
 <li>
-<b>Nordquist E</b>, Zhiguang J, Chen J. Inner pore hydration free energy controls the activation of the big potassium channel and its mutants. Biophys J. (submitted).
+<b>Nordquist E</b>, Zhiguang J, Chen J. Inner pore hydration free energy controls the activation of the big potassium channel and its mutants. Biophys J. (under revision).
 <a href="">DOI</a>
 </li>
 
