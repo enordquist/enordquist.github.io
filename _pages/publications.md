@@ -12,11 +12,27 @@ author_profile: true
 <br>
 <ol reversed>
 <h2 style='margin-top:0'>2023</h2>
+
+<!---
 <li>
-<b>Nordquist E</b>, Zhiguang J, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 2023. (in press) DOI:
+Jia Z<sup>#</sup>, Zhang G<sup>#</sup>, <b>Nordquist E<sup>#</sup></b>, Shi J, Cui J, Chen J. Perturbation of vapor barrier in BK channel by voltage, mutation and small molecule activator NS11021. (in preparation)
+</li>
+
+<li>
+<b>Nordquist E</b>, Zhang G, Shi J, Cui J, Chen J. A predictive model of BK channel voltage gating using physics-based modeling and statistical learning. (in preparation)
+</li>
+
+<li>
+Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023. (submitted)
+</li>
+-->
+
+<li>
+<b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 2023. (in press) DOI:
 <a href="https://doi.org/10.1016/j.bpj.2023.02.005">10.1016/j.bpj.2023.02.005</a>
 </li>
 
+<hr>
 <h2 style='margin-top:0'>2022</h2>
 
 <li>
