@@ -15,20 +15,20 @@ author_profile: true
 
 <!---
 <li>
-Jia Z<sup>#</sup>, Zhang G<sup>#</sup>, <b>Nordquist E<sup>#</sup></b>, Shi J, Cui J, Chen J. Perturbation of vapor barrier in BK channel by voltage, mutation and small molecule activator NS11021. (in preparation)
+Jia Z<sup>#</sup>, Zhang G<sup>#</sup>, <b>Nordquist E<sup>#</sup></b>, Shi J, Cui J, Chen J. Intrinsic opening of BK Channels derives from the leakage in hydrophobic gating. <b>Nat. Chem. Biol.</b> (submitted)
 </li>
 
 <li>
-<b>Nordquist E</b>, Zhang G, Shi J, Cui J, Chen J. A predictive model of BK channel voltage gating using physics-based modeling and statistical learning. (in preparation)
+<b>Nordquist E</b>, Zhang G, Shi J, Cui J, Chen J. A predictive model of BK channel voltage gating using physics-based modeling and statistical learning. <b>PLOS Comput. Biol.</b> (submitted)
 </li>
 
 <li>
-Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023. (submitted)
+Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023. (in press)
 </li>
 -->
 
 <li>
-<b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 2023. (in press) DOI:
+<b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 122, 1158-1167, 2023. DOI:
 <a href="https://doi.org/10.1016/j.bpj.2023.02.005">10.1016/j.bpj.2023.02.005</a>
 </li>
 
