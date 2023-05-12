@@ -24,11 +24,12 @@ Jia Z<sup>#</sup>, Zhang G<sup>#</sup>, <b>Nordquist E<sup>#</sup></b>, Shi J, C
 -->
 
 <li>
-Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023. (in press)
+Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023, 28(10), 4047. DOI:
+<a href="https://doi.org/10.3390/molecules28104047">10.3390/molecules28104047</a>
 </li>
 
 <li>
-<b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 122, 1158-1167, 2023. DOI:
+<b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 2023, 122, 1158-1167. DOI:
 <a href="https://doi.org/10.1016/j.bpj.2023.02.005">10.1016/j.bpj.2023.02.005</a>
 </li>
 
