@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Erik Nordquist"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate, computational biophysics." # 艾瑞克
+  bio              : "PhD, Chemistry" # 艾瑞克
   location         : #"Amherst MA"
-  employer         : "UMass Amherst Chemistry"
+  employer         : "University of Maryland, Baltimore"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=50NIkf0AAAAJ"
   email            : "enordquist@umass.edu" #"erikbnordquist@gmail.com" 
