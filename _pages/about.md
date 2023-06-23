@@ -12,7 +12,7 @@ What am I doing: Postdoc at University of Maryland, Baltimore
 -----
 
 <div style="text-align: justify">
-In June 2023, I started working as a post-doctoral researcher in the lab of Alex MacKerell at the University of Maryland, Baltimore School of Pharmacy. The focus of my research will be on computer-aided drug discovery (CADD), particularly for membrane proteins in the context of cancer biology. While in the lab, I will contribute to other areas of the lab's research goals, which include the development of software for CADD and the developemnt and testing of polarizable force fields.
+In June 2023, I started working as a post-doctoral researcher in the lab of Alex MacKerell at the University of Maryland, Baltimore School of Pharmacy. The focus of my research will be on computer-aided drug discovery (CADD), particularly for membrane proteins in the context of cancer biology. While in the lab, I will also try to contribute to other areas of the lab's research areas.
 </div>
 
 
