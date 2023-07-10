@@ -86,7 +86,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Research Fellow\nAlex MacKerell Group" # 艾瑞克
   location         : #"Amherst MA"
-  employer         : "University of Maryland, Baltimore"
+  employer         : "University of Maryland" #"University of Maryland,\nBaltimore"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=50NIkf0AAAAJ"
   email            : "enord@outerbanks.umaryland.edu" #"erikbnordquist@gmail.com" 
