@@ -17,11 +17,12 @@ author_profile: true
 <li>
 Jia Z<sup>#</sup>, Zhang G<sup>#</sup>, <b>Nordquist E<sup>#</sup></b>, Shi J, Cui J, Chen J. Intrinsic opening of BK Channels derives from the leakage in hydrophobic gating. <b>Nat. Chem. Biol.</b> (submitted)
 </li>
+-->
 
 <li>
-<b>Nordquist E</b>, Zhang G, Shi J, Cui J, Chen J. A predictive model of BK channel voltage gating using physics-based modeling and statistical learning. <b>PLOS Comput. Biol.</b> (submitted)
+<b>Nordquist E<sup>#</sup></b>, Zhang G<sup>#</sup>, Barethiya S, Ji N, White K, Han L, Jia Z, Shi J, Cui J, and Chen J. Incorporating physics to overcome data scarcity in predictive modeling of protein function: a case study of BK channels. (submitted) <b>PLOS Comput. Biol.</b> 
+<a href="https://biorxiv.org/cgi/content/short/2023.06.24.546384v1">bioRXiv</a>
 </li>
--->
 
 <li>
 Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023, 28(10), 4047. DOI:
@@ -48,7 +49,7 @@ Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machin
 <hr>
 <h2 style='margin-top:0'>2021</h2>
 <li>
-<b>Nordquist E</b>, English C, Clerico E, Sherman W, Gierasch L, and Chen J. Physics-based modeling provides predictive understanding of selectively promiscuous substrate binding by Hsp70 chaperones. <b>PLoS Comput. Biol.</b>, 2021, 17 (11): e1009567. DOI:
+<b>Nordquist E</b>, English C, Clerico E, Sherman W, Gierasch L, and Chen J. Physics-based modeling provides predictive understanding of selectively promiscuous substrate binding by Hsp70 chaperones. <b>PLOS Comput. Biol.</b>, 2021, 17 (11): e1009567. DOI:
 <a href="https://doi.org/10.1371/journal.pcbi.1009567">10.1371/journal.pcbi.1009567</a>
 <a href="https://pubmed.ncbi.nlm.nih.gov/34735438/">PubMed</a>
 </li>
@@ -61,4 +62,4 @@ Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accel
 </li>
 </ol>
 
-<sup>#</sup>Co-first authors. 
+<sup>#</sup>These authors contributed equally to the work.

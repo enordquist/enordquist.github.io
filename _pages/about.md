@@ -12,6 +12,7 @@ What am I doing: Postdoc at University of Maryland, Baltimore
 -----
 
 <div style="text-align: justify">
+<img align='right' width='350' style='padding-left: 10px' alt='Idaho Mt Galena' src='images/UMB_Pharmacy.png'>
 In June 2023, I started working as a post-doctoral researcher in the lab of Alex MacKerell at the University of Maryland, Baltimore School of Pharmacy. The focus of my research will be on computer-aided drug discovery (CADD), particularly for membrane proteins in the context of cancer biology. Once I am estiablished, I will also try to contribute to other areas of the lab's research interests and think about my own ideas.
 </div>
 
@@ -19,8 +20,7 @@ In June 2023, I started working as a post-doctoral researcher in the lab of Alex
 Long-term goal: Professor at PUI
 ---
 <div style="text-align: justify">
-I am working towards becoming a professor at a primarily undergraduate-serving institution teaching physical chemistry and using a small research program to enhance the learning experience of my students.
-While <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a> that computational chemistry lends itself nicely to compartmentalized projects with minimal costs or required materials.
+I am working towards becoming a professor at a primarily undergraduate-serving institution teaching physical chemistry and using a small research program to enhance the learning experience of my students. While <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a> that computational chemistry lends itself nicely to compartmentalized projects with minimal costs or required materials.
 </div>
 
 
@@ -28,7 +28,7 @@ Where I've been:
 ---
 **PhD, UMass Amherst. Amherst, Massachusetts**
 <div style="text-align: justify">
-<img align='right' width='350' style="padding-left: 10px" alt='UMass Campus' src='https://umassamherst.widen.net/content/kwpnbgxybm/jpeg/2015_Fall_Campus_mkt__MG_9474.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80'>
+<img align='left' width='350' style="padding-right: 10px" alt='UMass Campus' src='https://umassamherst.widen.net/content/kwpnbgxybm/jpeg/2015_Fall_Campus_mkt__MG_9474.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80'>
 In June 2023, I finished a PhD in Jianhan Chen's <a href="https://people.chem.umass.edu/jchenlab/main.html">computational biophysics lab</a> primarily using a computational technique called Molecular Dynamics, with which we simulate the motions of biological molecules like proteins and use the resulting simulations to answer questions about how protein dynamics (aka wiggles) help them to perform their function. Amherst was my home for five great years, and I will remember the place and people very fondly.
 </div>
 
@@ -42,6 +42,6 @@ I studied Chemistry and Physics and ran cross-country and track at <a href='http
 <br>
 **Jerome, Idaho**
 <div style="text-align: justify">
-<img align='right' width='250' style='padding-left: 10px' alt='Idaho Mt Galena' src='images/shoshone_falls.jpg'>
+<img align='left' width='250' style='padding-right: 10px' alt='UMB' src='images/shoshone_falls.jpg'>
 I grew up in Jerome, Idaho, a small town of ~10,000 people when I was there. I attended public schools in the Jerome School District, ran cross-country/track, and graduated from Jerome High School as validictorian in 2014. Education was always an important part of life. My dad was a high school science teacher, and my mom worked in the schools as an aide. Several other family members were also invovled in teaching, including my uncle who taught music and my grandfather who taught social studies and english. I was interested in science from early-on as well... although I have not studied paleontology as much as I thought I would. My first job was working as a lab technician at the Northwestern Irrigation and Soils Research Laboratory in Kimberly, Idaho collecting data on soil physics (i.e. precison mud-making).
 </div>
