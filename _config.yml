@@ -89,7 +89,7 @@ author:
   employer         : "University of Maryland" #"University of Maryland,\nBaltimore"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=50NIkf0AAAAJ"
-  email            : "erikbnordquist@gmail.com" 
+  email            : "enordquist@rx.umaryland.edu" #"erikbnordquist@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"eriknordquist.com"
   bitbucket        :
