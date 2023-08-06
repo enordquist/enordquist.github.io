@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Erik Nordquist"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Fellow\nAlex MacKerell Group" # 艾瑞克
+  bio              : "Postdoctoral Research Fellow\n<a href='https://mackerell.umaryland.edu/'>Alex MacKerell Group</a>" # 艾瑞克
   location         : #"Amherst MA"
   employer         : "University of Maryland" #"University of Maryland,\nBaltimore"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
