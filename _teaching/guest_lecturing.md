@@ -7,9 +7,12 @@ venue: "various Universities"
 date: 2023-08-06
 ---
 
-1. Molecular mechanics and additive protein force fields; UMass Chem 586 Statistical Mechanics (Instructor: Dr. Jianhan Chen)
-2. (Guest moderator) Student-led discussion on AlphaFold2 Nature paper; Amherst College Biophysics Seminar (Instructor: Dr. Ashley Carter)
-3. Drug design and CADD in Cancer Biology; UMB Grad. Program in Life Science 665 Cancer Biology: From Basic Research to the Clinic (Instructor: Dr. Feyruz Rassool)
+1. Molecular mechanics and additive protein force fields; UMass Chem 586 Statistical Mechanics 
+  - Feb 2020, Instructor: Dr. Jianhan Chen
+2. (Guest moderator) Student-led discussion on AlphaFold2 Nature paper; Amherst College Biophysics Seminar
+  - Mar 2023, Instructor: Dr. Ashley Carter
+3. Drug design and CADD in Cancer Biology; UMB Grad. Program in Life Science 665 Cancer Biology: From Basic Research to the Clinic
+  - Sep 2023, Instructor: Dr. Feyruz Rassool
 
 Some Highlights:
 ===================
