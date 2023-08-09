@@ -4,3 +4,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
+I customized this while in grad school in Amherst. If you want an easy free website, GitHub Pages username.github.io is a great option!!
+If you are an academic, I recommend the academicpages.github.io fork of minimal mistakes, or mine if you like my minor customization.
+
+I only request that you leave my logo, the computer with the water molecule on the screen...
