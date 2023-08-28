@@ -20,7 +20,7 @@ Jia Z<sup>#</sup>, Zhang G<sup>#</sup>, <b>Nordquist E<sup>#</sup></b>, Shi J, C
 -->
 
 <li>
-<b>Nordquist E<sup>#</sup></b>, Zhang G<sup>#</sup>, Barethiya S, Ji N, White K, Han L, Jia Z, Shi J, Cui J, and Chen J. Incorporating physics to overcome data scarcity in predictive modeling of protein function: a case study of BK channels. (submitted) <b>PLOS Comput. Biol.</b> 
+<b>Nordquist E<sup>#</sup></b>, Zhang G<sup>#</sup>, Barethiya S, Ji N, White K, Han L, Jia Z, Shi J, Cui J, and Chen J. Incorporating physics to overcome data scarcity in predictive modeling of protein function: a case study of BK channels. (accepted) <b>PLOS Comput. Biol.</b> 
 <a href="https://biorxiv.org/cgi/content/short/2023.06.24.546384v1">bioRXiv</a>
 </li>
 
