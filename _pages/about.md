@@ -12,8 +12,8 @@ What am I doing: Postdoc at University of Maryland, Baltimore
 -----
 
 <div style="text-align: justify">
-<img align='right' width='350' style='padding-left: 10px' alt='University of Maryland, Baltimore School of Pharmacy' src='images/UMB_Pharmacy.png'>
-In June 2023, I started working as a post-doctoral researcher in the lab of Alex MacKerell at the University of Maryland, Baltimore School of Pharmacy. My research is on computer-aided drug discovery (CADD), especially in the context of cancer biology. I am working with methods for designing covlant inhibitors and PROTACS/Molecular Glues, and applying those methods to drug targets in cancers alongside experimental collaborators. I am also purusing allosteric modulators of the BK channel.
+<img align='right' width='350' style='padding-left: 10px' alt='Baltimore Inner Harbor at Nighttime' src='images/NighttimeBaltimore.jpg'>
+In June 2023, I started working as a post-doctoral researcher in the lab of Alex MacKerell at the University of Maryland, Baltimore School of Pharmacy. Pictured is the beautiful Inner Harbor on a clear December evening in Baltimore. My research is on computer-aided drug discovery (CADD), especially in the context of cancer biology. I am working with methods for designing covlant inhibitors and PROTACS/Molecular Glues, and applying those methods to drug targets in cancers alongside experimental collaborators. I am also purusing allosteric modulators of the BK channel.
 </div>
 
 
@@ -28,7 +28,8 @@ Where I've been:
 ---
 **PhD, UMass Amherst. Amherst, Massachusetts**
 <div style="text-align: justify">
-<img align='left' width='350' style="padding-right: 10px" alt='UMass Campus' src='https://umassamherst.widen.net/content/kwpnbgxybm/jpeg/2015_Fall_Campus_mkt__MG_9474.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80'>
+<!--<img align='left' width='350' style="padding-right: 10px" alt='UMass Campus' src='https://umassamherst.widen.net/content/kwpnbgxybm/jpeg/2015_Fall_Campus_mkt__MG_9474.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80'> -->
+<img align='left' width='350' style="padding-right: 10px" alt='UMass Maroon robes' src='images/phd-defense-robes.jpg'>
 In June 2023, I finished a PhD in Jianhan Chen's <a href="https://people.chem.umass.edu/jchenlab/main.html">computational biophysics lab</a> primarily using a computational technique called Molecular Dynamics, with which we simulate the motions of biological molecules like proteins and use the resulting simulations to answer questions about how protein dynamics (aka wiggles) help them to perform their function. Amherst was my home for five great years, and I will remember the place and people very fondly.
 </div>
 
