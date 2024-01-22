@@ -5,17 +5,29 @@ category: Entertainment
 permalink: /hobbies/podcasts
 ---
 
-I like to unwind by listening to some podcasts and learning something to discuss or think about.
+I like to unwind by listening to some podcasts, and thinking or discussing about something new to me.
 
+## History, Philosophy, Religion
+[Centre Place (John Hamer)](https://www.youtube.com/@centre-place)
+<br>
+[Within Reason (Alex O'Connor)](https://www.youtube.com/@CosmicSkeptic)
+<br>
+[In Our Time](https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ)
+<br>
+[Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
+<br>
+[Bible Project](https://bibleproject.com)
+<br>
+[Al Muqaddimah](https://www.youtube.com/c/AlMuqaddimah)
 
-## Basketball
-[The Draymond Green Show](https://open.spotify.com/show/4uEA3lPBibUlrPOciIMCRY)
+## Woodworking
+[Rex Kruger](https://www.youtube.com/@RexKrueger)
 <br>
-[The Old Man and the Three](https://open.spotify.com/show/5vMLIaAcXeWUpXRpUt5qXY)
+[Paul Sellers](https://www.youtube.com/@Paul.Sellers)
 <br>
-[Clayton Crowley](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
+[Workshop Companion (Nick Engler)](https://www.youtube.com/@WorkshopCompanion)
 <br>
-[The NBA Storyteller](https://www.youtube.com/c/THENBASTORYTELLER)
+[Stuff Made Here](https://www.youtube.com/@StuffMadeHere)
 
 ## Mathematics and Science 
 [In Our Time](https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ)
@@ -30,16 +42,12 @@ I like to unwind by listening to some podcasts and learning something to discuss
 <br>
 [ElectroBOOM](https://www.youtube.com/user/msadaghd)
 
-## History, Philosophy, Religion
-[In Our Time](https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ)
+## Basketball
+[The Old Man and the Three](https://open.spotify.com/show/5vMLIaAcXeWUpXRpUt5qXY)
 <br>
-[Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
+[Clayton Crowley](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
 <br>
-[Bible Project](https://bibleproject.com)
+[The NBA Storyteller](https://www.youtube.com/c/THENBASTORYTELLER)
 <br>
-[Al Muqaddimah](https://www.youtube.com/c/AlMuqaddimah)
+[All the Smoke](https://www.youtube.com/@AllTheSmokeProductions)
 
-## Making stuff
-[Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
-<br>
-[I did a thing](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
