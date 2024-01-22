@@ -21,7 +21,7 @@ I like to unwind by listening to some podcasts, and thinking or discussing about
 [Al Muqaddimah](https://www.youtube.com/c/AlMuqaddimah)
 
 ## Woodworking
-[Rex Kruger](https://www.youtube.com/@RexKrueger)
+[Rex Krueger](https://www.youtube.com/@RexKrueger)
 <br>
 [Paul Sellers](https://www.youtube.com/@Paul.Sellers)
 <br>
