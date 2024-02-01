@@ -18,7 +18,7 @@ I like to unwind by listening to some podcasts, and thinking or discussing about
 <br>
 [Bible Project](https://bibleproject.com)
 <br>
-[Al Muqaddimah](https://www.youtube.com/c/AlMuqaddimah)
+[Al Muqaddimah](https://www.youtube.com/@AlMuqaddimahYT)
 
 ## Woodworking
 [Rex Krueger](https://www.youtube.com/@RexKrueger)
@@ -32,22 +32,22 @@ I like to unwind by listening to some podcasts, and thinking or discussing about
 ## Mathematics and Science 
 [In Our Time](https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ)
 <br>
-[3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+[3 Blue 1 Brown](https://www.youtube.com/@3blue1brown)
 <br>
-[Numberphile](https://www.youtube.com/c/numberphile)
+[Numberphile](https://www.youtube.com/@numberphile)
 <br>
-[Computerphile](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
+[Computerphile](https://www.youtube.com/@computerphile)
 <br>
-[Steve Mould](https://www.youtube.com/user/steventhebrave)
+[Steve Mould](https://www.youtube.com/@SteveMould)
 <br>
-[ElectroBOOM](https://www.youtube.com/user/msadaghd)
+[ElectroBOOM](https://www.youtube.com/@ElectroBOOM)
 
 ## Basketball
-[The Old Man and the Three](https://open.spotify.com/show/5vMLIaAcXeWUpXRpUt5qXY)
+[The Old Man and the Three](https://www.youtube.com/@JJReddick)
 <br>
-[Clayton Crowley](https://www.youtube.com/channel/UCPhN8QINb_UXV5DrHjCTqyg)
+[Clayton Crowley](https://www.youtube.com/@ClaytonCrowley)
 <br>
-[The NBA Storyteller](https://www.youtube.com/c/THENBASTORYTELLER)
+[The NBA Storyteller](https://www.youtube.com/@THENBASTORYTELLER)
 <br>
 [All the Smoke](https://www.youtube.com/@AllTheSmokeProductions)
 
