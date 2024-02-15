@@ -33,7 +33,7 @@ Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machin
 
 <li>
 <b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 2023, 122, 1158-1167. DOI:
-<a href="https://doi.org/10.1016/j.bpj.2023.02.005">10.1016/j.bpj.2023.02.005</a> <a href="https://info.cell.com/best-of-biophysical-journal-2023">(Selected for Best of BJ 2023 issue!)</a>
+<a href="https://doi.org/10.1016/j.bpj.2023.02.005">10.1016/j.bpj.2023.02.005</a> <a href="https://info.cell.com/best-of-biophysical-journal-2023">(Best of BJ 2023 issue!)</a>
 </li>
 
 <hr>
