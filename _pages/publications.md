@@ -11,13 +11,15 @@ author_profile: true
 <!--- reverse ordered list in html, not an 'easy' way to do this in markdown without another package -->
 <br>
 <ol reversed>
-<h2 style='margin-top:0'>2023</h2>
-
 <!---
+<h2 style='margin-top:0'>2024</h2>
 <li>
 Jia Z<sup>#</sup>, Zhang G<sup>#</sup>, <b>Nordquist E<sup>#</sup></b>, Shi J, Cui J, Chen J. Intrinsic opening of BK Channels derives from the leakage in hydrophobic gating. <b>Nat. Chem. Biol.</b> (submitted)
 </li>
 -->
+
+
+<h2 style='margin-top:0'>2023</h2>
 
 <li>
 <b>Nordquist E<sup>#</sup></b>, Zhang G<sup>#</sup>, Barethiya S, Ji N, White K, Han L, Jia Z, Shi J, Cui J, and Chen J. Incorporating physics to overcome data scarcity in predictive modeling of protein function: a case study of BK channels. <b>PLOS Comput. Biol.</b> 2023 19(9): e1011460. DOI:
@@ -31,7 +33,7 @@ Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machin
 
 <li>
 <b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 2023, 122, 1158-1167. DOI:
-<a href="https://doi.org/10.1016/j.bpj.2023.02.005">10.1016/j.bpj.2023.02.005</a>
+<a href="https://doi.org/10.1016/j.bpj.2023.02.005">10.1016/j.bpj.2023.02.005</a> <a href="https://info.cell.com/best-of-biophysical-journal-2023">(Selected for Best of BJ 2023 issue!)</a>
 </li>
 
 <hr>
