@@ -11,14 +11,20 @@ author_profile: true
 <!--- reverse ordered list in html, not an 'easy' way to do this in markdown without another package -->
 <br>
 <ol reversed>
-<!---
+
 <h2 style='margin-top:0'>2024</h2>
+
+<!---
 <li>
-Jia Z<sup>#</sup>, Zhang G<sup>#</sup>, <b>Nordquist E<sup>#</sup></b>, Shi J, Cui J, Chen J. Intrinsic opening of BK Channels derives from the leakage in hydrophobic gating. <b>Nat. Chem. Biol.</b> (submitted)
+<b>Nordquist E<sup>#</sup></b>, Jia Z, Chen J. Small molecular activator NS11021 acts on BK channel through hydration of the pore.<b>Biophys. J.</b> (submitted)
 </li>
 -->
 
+<li>
+<b>Nordquist E<sup>#</sup></b>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined physics- and machine-learning-based method to identify druggable binding sites using SILCS-Hotspots. <b>J. Comput. Aid. Mol. Des.</b> 2024 (submitted) chemRxiv DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-hrqq9">10.26434/chemrxiv-2024-hrqq9</a>
+</li>
 
+<hr>
 <h2 style='margin-top:0'>2023</h2>
 
 <li>
