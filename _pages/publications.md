@@ -14,21 +14,19 @@ author_profile: true
 
 <h2 style='margin-top:0'>2024</h2>
 
-<!---
 <li>
-<b>Nordquist E<sup>#</sup></b>, Jia Z, Chen J. Small molecular activator NS11021 acts on BK channel through hydration of the pore.<b>Biophys. J.</b> (submitted)
+<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK channel activation by increasing inner pore hydration. <b>J. Chem. Inf. Model.</b> 2024 (submitted) bioRxiv DOI: <a href="https://doi.org/10.1101/2024.06.03.597166">10.1101/2024.06.03.597166</a>
 </li>
--->
 
 <li>
-<b>Nordquist E<sup>#</sup></b>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined physics- and machine-learning-based method to identify druggable binding sites using SILCS-Hotspots. <b>J. Comput. Aid. Mol. Des.</b> 2024 (submitted) chemRxiv DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-hrqq9">10.26434/chemrxiv-2024-hrqq9</a>
+<b>Nordquist E</b><sup>#</sup>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined physics- and machine-learning-based method to identify druggable binding sites using SILCS-Hotspots. <b>J. Comput. Aid. Mol. Des.</b> 2024 (submitted) chemRxiv DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-hrqq9">10.26434/chemrxiv-2024-hrqq9</a>
 </li>
 
 <hr>
 <h2 style='margin-top:0'>2023</h2>
 
 <li>
-<b>Nordquist E<sup>#</sup></b>, Zhang G<sup>#</sup>, Barethiya S, Ji N, White K, Han L, Jia Z, Shi J, Cui J, and Chen J. Incorporating physics to overcome data scarcity in predictive modeling of protein function: a case study of BK channels. <b>PLOS Comput. Biol.</b> 2023 19(9): e1011460. DOI:
+<b>Nordquist E</b><sup>#</sup>, Zhang G<sup>#</sup>, Barethiya S, Ji N, White K, Han L, Jia Z, Shi J, Cui J, and Chen J. Incorporating physics to overcome data scarcity in predictive modeling of protein function: a case study of BK channels. <b>PLOS Comput. Biol.</b> 2023 19(9): e1011460. DOI:
 <a href="https://doi.org/10.1371/journal.pcbi.1011460">10.1371/journal.pcbi.1011460</a>
 </li>
 
@@ -50,7 +48,7 @@ Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machin
 <a href="https://doi.org/10.1021/acs.jpcb.2c03806">10.1021/acs.jpcb.2c03806</a>
 </li>
 <li>
-<b>Nordquist E<sup>#</sup></b>, Schultz S<sup>#</sup>, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. <b>J. Phys. Chem. B</b> 2022, 126 (34), 6428-6437 DOI:
+<b>Nordquist E</b><sup>#</sup>, Schultz S<sup>#</sup>, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. <b>J. Phys. Chem. B</b> 2022, 126 (34), 6428-6437 DOI:
 <a href="https://doi.org/10.1021/acs.jpcb.2c04157">10.1021/acs.jpcb.2c04157</a>
 </li>
 
