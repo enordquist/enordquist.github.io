@@ -7,7 +7,7 @@ venue: "UMass"
 date: 2022-07-04
 location: "Amherst, USA"
 
-excerpt: "The goal of the FYS is to welcome first-year CNS students and prepare them for college and for a major in the sciences.<br> <img width='500' alt='2015_Fall_Campus_mkt__MG_9474.jpeg' src='https://umassamherst.widen.net/content/kwpnbgxybm/jpeg/2015_Fall_Campus_mkt__MG_9474.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80'>  <br>"
+excerpt: "The goal of the FYS is to welcome first-year CNS students and prepare them for college and for a major in the sciences."
 tags:
   - evidence-based-teaching
 ---
