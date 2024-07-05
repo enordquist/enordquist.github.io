@@ -15,8 +15,8 @@ Interestingly, a similar algorithm to MD is used to study the motions of stars a
 
 $$
 \displaylines{
-F_{gravity} \\; = \\; k_g \frac{m_1 \\; m_2}{r^2} \\\
-F_{charge} \\; = \\; k_e \frac{q_1 \\; q_2}{r^2}
+F_{gravity} = k_g \frac{m_1 m_2}{r^2} \\\
+F_{charge} = k_e \frac{q_1 q_2}{r^2}
 }
 $$
 
