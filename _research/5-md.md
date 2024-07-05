@@ -7,9 +7,9 @@ category: Techniques
 <div style="text-align: justify">
 I use molecular dynamics simulations to study huge molecules like proteins, the molecular machinery cells use to accomplish almost all functions which sustain life. These simulations give us a way to 'watch the movie' of how these molecular "machines" perform their functions. The work by an interative process:<br><br>
   
-**Step 1:** Calculate the forces acting on each atom by every other atom. <br>
-**Step 2:** Determine how the forces will move the atoms, by integrating acceleration into a velocity over a small time interval. <br>
-**Step 3:** Move all the atoms, and go back to Step 1. <br><br>
+<b>Step 1:</b> Calculate the forces acting on each atom by every other atom. <br>
+<b>Step 2:</b> Calculate how the forces will move the atoms by integration of acceleration into velocity. <br>
+<b>Step 3:</b> Move all the atoms, and go back to Step 1. <br><br>
 
 Interestingly, a similar algorithm to MD is used to study the motions of stars and galaxies, since both molecular (charge-charge or electrostatic) and galactic motion (large bodies of mass attracting each other via gravity) are dominated by inverse-square-distance laws, respectively:
 
