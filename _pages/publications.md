@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "List of Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,14 +12,15 @@ author_profile: true
 <br>
 <ol reversed>
 
+<h2 style='margin-top:0'>Peer-reviewed Research Articles</h2>
 <h2 style='margin-top:0'>2024</h2>
 
 <li>
-<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK channel activation by increasing inner pore hydration. <b>J. Chem. Inf. Model.</b> 2024 (submitted) bioRxiv DOI: <a href="https://doi.org/10.1101/2024.06.03.597166">10.1101/2024.06.03.597166</a>
+<b>Nordquist E</b><sup>#</sup>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined physics- and machine-learning-based method to identify druggable binding sites using SILCS-Hotspots. <b>J. Chem. Inf. Model.</b> 2024 (submitted) chemRxiv DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-hrqq9">10.26434/chemrxiv-2024-hrqq9</a>
 </li>
 
 <li>
-<b>Nordquist E</b><sup>#</sup>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined physics- and machine-learning-based method to identify druggable binding sites using SILCS-Hotspots. <b>J. Comput. Aid. Mol. Des.</b> 2024 (submitted) chemRxiv DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-hrqq9">10.26434/chemrxiv-2024-hrqq9</a>
+<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK channel activation by increasing inner pore hydration. <b>J. Chem. Inf. Model.</b> 2024 (submitted) bioRxiv DOI: <a href="https://doi.org/10.1101/2024.06.03.597166">10.1101/2024.06.03.597166</a>
 </li>
 
 <hr>
@@ -30,10 +31,6 @@ author_profile: true
 <a href="https://doi.org/10.1371/journal.pcbi.1011460">10.1371/journal.pcbi.1011460</a>
 </li>
 
-<li>
-Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023, 28(10), 4047. DOI:
-<a href="https://doi.org/10.3390/molecules28104047">10.3390/molecules28104047</a>
-</li>
 
 <li>
 <b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 2023, 122, 1158-1167. DOI:
@@ -43,10 +40,6 @@ Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machin
 <hr>
 <h2 style='margin-top:0'>2022</h2>
 
-<li>
-<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. <b>J. Phys. Chem. B</b>, 2022, 126 (36), 6780–6791 DOI:
-<a href="https://doi.org/10.1021/acs.jpcb.2c03806">10.1021/acs.jpcb.2c03806</a>
-</li>
 <li>
 <b>Nordquist E</b><sup>#</sup>, Schultz S<sup>#</sup>, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. <b>J. Phys. Chem. B</b> 2022, 126 (34), 6428-6437 DOI:
 <a href="https://doi.org/10.1021/acs.jpcb.2c04157">10.1021/acs.jpcb.2c04157</a>
@@ -69,3 +62,21 @@ Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accel
 </ol>
 
 <sup>#</sup>These authors contributed equally to the work.
+
+
+<ol>
+
+<hr>
+<h2 style='margin-top:0'>Review Articles and Book Chapters</h2>
+
+<li>
+Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023, 28(10), 4047. DOI:
+<a href="https://doi.org/10.3390/molecules28104047">10.3390/molecules28104047</a>
+</li>
+
+<li>
+<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. <b>J. Phys. Chem. B</b>, 2022, 126 (36), 6780–6791 DOI:
+<a href="https://doi.org/10.1021/acs.jpcb.2c03806">10.1021/acs.jpcb.2c03806</a>
+</li>
+
+</ol>
