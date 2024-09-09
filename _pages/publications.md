@@ -16,11 +16,11 @@ author_profile: true
 <h2 style='margin-top:0'>2024</h2>
 
 <li>
-<b>Nordquist E</b><sup>#</sup>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined physics- and machine-learning-based method to identify druggable binding sites using SILCS-Hotspots. <b>J. Chem. Inf. Model.</b> 2024 (submitted) chemRxiv DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-hrqq9">10.26434/chemrxiv-2024-hrqq9</a>
+<b>Nordquist E</b><sup>#</sup>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined physics- and machine-learning-based method to identify druggable binding sites using SILCS-Hotspots. <b>J. Chem. Inf. Model.</b> 2024 (accepted) chemRxiv DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-hrqq9-v2">10.26434/chemrxiv-2024-hrqq9-v2</a>
 </li>
 
 <li>
-<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK channel activation by increasing inner pore hydration. <b>J. Chem. Inf. Model.</b> 2024 (submitted) bioRxiv DOI: <a href="https://doi.org/10.1101/2024.06.03.597166">10.1101/2024.06.03.597166</a>
+<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK channel activation by increasing inner pore hydration. <b>J. Chem. Inf. Model.</b> 2024 (accepted) bioRxiv DOI: <a href="https://doi.org/10.1101/2024.06.03.597166">10.1101/2024.06.03.597166</a>
 </li>
 
 <hr>
