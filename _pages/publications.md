@@ -20,7 +20,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK channel activation by increasing inner pore hydration. <b>J. Chem. Inf. Model.</b> 2024 (accepted) bioRxiv DOI: <a href="https://doi.org/10.1101/2024.06.03.597166">10.1101/2024.06.03.597166</a>
+<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK channel activation by increasing inner pore hydration. <b>J. Chem. Inf. Model.</b> 2024 (In press) DOI: <a href="https://doi.org/10.1021/acs.jcim.4c01012">10.1021/acs.jcim.4c01012</a>
 </li>
 
 <hr>
@@ -70,8 +70,7 @@ Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accel
 <h2 style='margin-top:0'>Review Articles and Book Chapters</h2>
 
 <li>
-Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine Learning Generation of Dynamic Protein Conformational Ensembles. <b>Molecules</b> 2023, 28(10), 4047. DOI:
-<a href="https://doi.org/10.3390/molecules28104047">10.3390/molecules28104047</a>
+Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine learning generation of dynamic protein conformational ensembles. <b>Molecules</b> 2023, 28(10), 4047. DOI: <a href="https://doi.org/10.3390/molecules28104047">10.3390/molecules28104047</a>
 </li>
 
 <li>
