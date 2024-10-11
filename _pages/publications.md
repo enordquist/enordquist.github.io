@@ -9,7 +9,7 @@ author_profile: true
 
 
 <!--- reverse ordered list in html, not an 'easy' way to do this in markdown without another package -->
-<br>
+<!---<br> --->
 <ol reversed>
 
 <h2 style='margin-top:0'>Peer-reviewed Research Articles</h2>
