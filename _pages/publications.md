@@ -31,6 +31,9 @@ author_profile: true
 <a href="https://doi.org/10.1371/journal.pcbi.1011460">10.1371/journal.pcbi.1011460</a>
 </li>
 
+<li>
+Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine learning generation of dynamic protein conformational ensembles. <b>Molecules</b> 2023, 28(10), 4047. DOI: <a href="https://doi.org/10.3390/molecules28104047">10.3390/molecules28104047</a>
+</li>
 
 <li>
 <b>Nordquist E</b>, Jia Z, Chen J. Inner pore hydration free energy controls the activation of big potassium channels. <b>Biophys. J.</b> 2023, 122, 1158-1167. DOI:
@@ -39,6 +42,11 @@ author_profile: true
 
 <hr>
 <h2 style='margin-top:0'>2022</h2>
+
+<li>
+<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. <b>J. Phys. Chem. B</b>, 2022, 126 (36), 6780–6791 DOI:
+<a href="https://doi.org/10.1021/acs.jpcb.2c03806">10.1021/acs.jpcb.2c03806</a>
+</li>
 
 <li>
 <b>Nordquist E</b><sup>#</sup>, Schultz S<sup>#</sup>, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. <b>J. Phys. Chem. B</b> 2022, 126 (34), 6428-6437 DOI:
@@ -63,19 +71,3 @@ Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accel
 
 <sup>#</sup>These authors contributed equally to the work.
 
-
-<ol>
-
-<hr>
-<h2 style='margin-top:0'>Review Articles and Book Chapters</h2>
-
-<li>
-Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machine learning generation of dynamic protein conformational ensembles. <b>Molecules</b> 2023, 28(10), 4047. DOI: <a href="https://doi.org/10.3390/molecules28104047">10.3390/molecules28104047</a>
-</li>
-
-<li>
-<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. <b>J. Phys. Chem. B</b>, 2022, 126 (36), 6780–6791 DOI:
-<a href="https://doi.org/10.1021/acs.jpcb.2c03806">10.1021/acs.jpcb.2c03806</a>
-</li>
-
-</ol>
