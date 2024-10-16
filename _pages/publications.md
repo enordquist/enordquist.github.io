@@ -18,11 +18,11 @@ author_profile: true
 <h2 style='margin-top:0'>2024</h2>
 
 <li>
-<b>Nordquist E</b><sup>#</sup>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined Physics- and Machine-Learning-Based Method to Identify Druggable Binding Sites Using SILCS-Hotspots. <b>J. Chem. Inf. Model.</b> 2024, In press, DOI: <a href="https://doi.org/10.1021/acs.jcim.4c01189">10.1021/acs.jcim.4c01189</a>
+<b>Nordquist E</b><sup>#</sup>, Zhang M<sup>#</sup>, Kumar A, MacKerell A. Combined Physics- and Machine-Learning-Based Method to Identify Druggable Binding Sites Using SILCS-Hotspots. <b>J. Chem. Inf. Model.</b> 2024, 64, 19, 7743–7757. DOI: <a href="https://doi.org/10.1021/acs.jcim.4c01189">10.1021/acs.jcim.4c01189</a>
 </li>
 
 <li>
-<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK Channel Activation by Increasing Inner Pore Hydration. <b>J. Chem. Inf. Model.</b> 2024, In press, DOI: <a href="https://doi.org/10.1021/acs.jcim.4c01012">10.1021/acs.jcim.4c01012</a>
+<b>Nordquist E</b>, Jia Z, Chen J. Small molecule NS11021 promotes BK Channel Activation by Increasing Inner Pore Hydration. <b>J. Chem. Inf. Model.</b> 2024, 64, 19, 7616–7625. DOI: <a href="https://doi.org/10.1021/acs.jcim.4c01012">10.1021/acs.jcim.4c01012</a>
 </li>
 
 <hr>
@@ -46,12 +46,12 @@ Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machin
 <h2 style='margin-top:0'>2022</h2>
 
 <li>
-<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. <b>J. Phys. Chem. B</b>, 2022, 126 (36), 6780–6791 DOI:
+<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. <b>J. Phys. Chem. B</b>, 2022, 126, 36, 6780–6791 DOI:
 <a href="https://doi.org/10.1021/acs.jpcb.2c03806">10.1021/acs.jpcb.2c03806</a>
 </li>
 
 <li>
-<b>Nordquist E</b><sup>#</sup>, Schultz S<sup>#</sup>, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. <b>J. Phys. Chem. B</b> 2022, 126 (34), 6428-6437 DOI:
+<b>Nordquist E</b><sup>#</sup>, Schultz S<sup>#</sup>, Chen J. Using metadynamics to explore the free energy of dewetting in biologically-relevant nanopores. <b>J. Phys. Chem. B</b> 2022, 126, 34, 6428-6437 DOI:
 <a href="https://doi.org/10.1021/acs.jpcb.2c04157">10.1021/acs.jpcb.2c04157</a>
 </li>
 
