@@ -2,7 +2,7 @@
 title: "Lincoln Addresses (excerpts)"
 excerpt: "we here highly resolve these dead shall not have died in vain"
 category: poetry
-permalink: /hobbies/poetry
+permalink: /hobbies/poetry/lincoln
 ---
 
 **Gettysburg Cemetary Dedication, 1863**

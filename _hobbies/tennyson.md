@@ -1,8 +1,8 @@
 ---
-title: "Ulysses, Tennyson (excerpt)"
+title: "Tennyson (Ulysses, excerpt)"
 excerpt: "that which we are, we are"
 category: poetry
-permalink: /hobbies/poetry
+permalink: /hobbies/poetry/tennyson
 ---
 
 "Old age hath yet his honor and his toil.<br>
