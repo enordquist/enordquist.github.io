@@ -12,7 +12,7 @@ author_profile: true
 <!---<br> --->
 <ol reversed>
 
-<h2 style='margin-top:0'>Peer-reviewed Research Articles</h2>
+<!--<h2 style='margin-top:0'>Peer-reviewed Articles</h2>-->
 
 <hr>
 <h2 style='margin-top:0'>2024</h2>
