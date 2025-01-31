@@ -15,6 +15,14 @@ author_profile: true
 <!--<h2 style='margin-top:0'>Peer-reviewed Articles</h2>-->
 
 <hr>
+<h2 style='margin-top:0'>2025</h2>
+
+<li>
+Patel R, <b>Nordquist E</b>, Polli J. Prediction of surfactant-mediated dissolution of poorly soluble drugs from drug powder. <b>Eur. J. Pharm. Sci.</b> 2025, (under revision) 
+<!--DOI: <a href="x">x</a> -->
+</li>
+
+<hr>
 <h2 style='margin-top:0'>2024</h2>
 
 <li>
@@ -73,3 +81,7 @@ Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accel
 
 <sup>#</sup>These authors contributed equally to the work.
 
+<ol>
+<h2 style='margin-top:0'>Book Chapters</h2>
+<li><b>Nordquist E</b>, Horrigan F, MacKerell A. Computational ligand binding site prediction. <b>Springer Nature</b> (accepted) 2025.</li>
+</ol>
