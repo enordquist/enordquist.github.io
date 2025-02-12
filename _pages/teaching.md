@@ -28,6 +28,14 @@ Key topics for the course:
 Check-out how it went [here](/posts/2022/12/1stclass)
 
 <hr>
+<h2 style='margin-top:0'>Teaching Philosophy</h2>
+
+<object data='/files/enordquist_teaching_philosophy.pdf' type='application/pdf' width='700px' height='700px'>
+<embed src='/files/enordquist_teaching_philosophy.pdf'> <p> There was a problem displaying the embedded pdf (possibly browser compatibility). Please download the PDF to view it: <a href='/files/enordquist_teaching_philosophy.pdf'>Download PDF</a>.  </p></embed>
+</object>
+
+
+<hr>
 <h2 style='margin-top:0'>Guest Lectures</h2>
 1. Molecular mechanics and additive protein force fields; UMass Chem 586 Statistical Mechanics 
   - Feb 2020, Instructor: Dr. Jianhan Chen
