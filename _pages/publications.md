@@ -18,7 +18,8 @@ author_profile: true
 <h2 style='margin-top:0'>2025</h2>
 
 <li>
-Patel R, <b>Nordquist E</b>, Polli J. Prediction of surfactant-mediated dissolution of poorly soluble drugs from drug powder. <b>Eur. J. Pharm. Sci.</b> 2025, (under revision) 
+Patel R, <b>Nordquist E</b>, Polli J. Prediction of surfactant-mediated dissolution of poorly soluble drugs from drug powder. <b>Eur. J. Pharm. Sci.</b> 2025, 107052.
+<a href="https://doi.org/10.1016/j.ejps.2025.107052">DOI</a>
 <!-- <a href="x">x</a> -->
 </li>
 
