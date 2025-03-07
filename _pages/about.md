@@ -20,7 +20,7 @@ I am currently a postdoc in Alex MacKerell's <a href="https://mackerell.umarylan
 Long-term goal: Professor at PUI
 ---
 <div style="text-align: justify">
-I am working towards becoming a professor at a primarily undergraduate-serving institution teaching physical chemistry and using a small research program to enhance the learning experience of my students. I've learned that that computational chemistry lends itself nicely to compartmentalized projects with low cost while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a> .
+I am working towards becoming a professor perhaps at a primarily undergraduate institution teaching physical chemistry and leading a research program in computational biophysical methods to understand protein structure-function and protein-ligand interactions. I've learned that that computational chemistry lends itself nicely to projects doable by undergraduates while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a> .
 </div>
 
 
@@ -44,5 +44,5 @@ I studied Chemistry and Physics and ran cross-country and track at <a href='http
 **Jerome, Idaho**
 <div style="text-align: justify">
 <img align='left' width='250' style='padding-right: 10px' alt='Shoshone Falls' src='images/shoshone_falls.jpg'>
-I grew up in Jerome, Idaho, a small town of ~10,000 people when I was there. Here I am paddling a green kayak up to within a few meters of the base of the <a href="https://en.wikipedia.org/wiki/Shoshone_Falls">Shoshone Falls</a>, a breathtaking part of the nearby <a href="https://en.wikipedia.org/wiki/Snake_River">Snake River Canyon</a>. I was interested in science early-on,although I have not studied Dinosaurs as much as I did as a kid! My first job was working as a lab technician at the Northwestern Irrigation and Soils Research Laboratory in Kimberly, Idaho collecting data on soil physics (i.e. precison mud-making).
+I grew up in Jerome, Idaho, a small town of ~10,000 people when I was there. Here I am paddling a green kayak up to within a few meters of the base of the <a href="https://en.wikipedia.org/wiki/Shoshone_Falls">Shoshone Falls</a>, a breathtaking part of the nearby <a href="https://en.wikipedia.org/wiki/Snake_River">Snake River Canyon</a>. I was interested in science early-on, although I have not studied Dinosaurs as much as I did as a kid! My first job was working as a lab technician at the Northwestern Irrigation and Soils Research Laboratory in Kimberly, Idaho collecting data on soil physics (i.e. precison mud-making).
 </div>
