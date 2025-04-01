@@ -17,10 +17,10 @@ I am currently a postdoc in Alex MacKerell's <a href="https://mackerell.umarylan
 </div>
 
 
-Long-term goal: Professor at PUI
+Long-term goal: become a Professor
 ---
 <div style="text-align: justify">
-I am working towards becoming a professor perhaps at a primarily undergraduate institution teaching physical chemistry and leading a research program in computational biophysical methods to understand protein structure-function and protein-ligand interactions. I've learned that that computational chemistry lends itself nicely to projects doable by undergraduates while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a> .
+I am working towards becoming a professor perhaps teaching gen chem, physical chem, biophysics, etc and leading a research program in computational biophysical methods to understand protein structure-function and protein-ligand interactions. I've mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
 </div>
 
 
