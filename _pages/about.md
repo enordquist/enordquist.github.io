@@ -13,14 +13,14 @@ What am I doing: Postdoc at University of Maryland, Baltimore
 
 <div style="text-align: justify">
 <img align='right' width='350' style='padding-left: 10px' alt='Baltimore Inner Harbor at Nighttime' src='images/NighttimeBaltimore.jpg'>
-I am currently a postdoc in Alex MacKerell's <a href="https://mackerell.umaryland.edu">lab</a> at the University of Maryland, Baltimore. Pictured is the beautiful Inner Harbor on a clear December evening in Baltimore. My research is on computer-aided drug design (CADD), especially in the context of cancer biology. I am working with methods for designing covalent inhibitors and PROTACs/Molecular Glues, and applying those methods to drug targets in cancers alongside experimental collaborators. I am also purusing allosteric modulators of the BK channel.
+I am currently a postdoc in Alex MacKerell's <a href="https://mackerell.umaryland.edu">lab</a> at the University of Maryland, Baltimore. Pictured is the beautiful Inner Harbor on a clear December evening in Baltimore. My research is on computer-aided drug design (CADD), especially in the context of cancer biology. I am working with methods for designing covalent inhibitors and PROTACs/Molecular Glues, and applying those methods to drug targets in cancers alongside experimental collaborators. I am also still studying modulators of the BK channel, and collaborating on novel inhibitors of topoisomerases.
 </div>
 
 
-Long-term goal: become a Professor
+Long-term goal: Professor
 ---
 <div style="text-align: justify">
-I am working towards becoming a professor perhaps teaching gen chem, physical chem, biophysics, etc and leading a research program in computational biophysical methods to understand protein structure-function and protein-ligand interactions. I've mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
+I am working towards becoming a professor teaching gen chem, physical chem, biophysics, etc and leading a research group that introduces new students to computational biophysical methods towards better understanding of protein-ligand interactions and protein structure-function relationships. I've mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
 </div>
 
 
