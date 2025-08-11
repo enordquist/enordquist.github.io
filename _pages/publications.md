@@ -18,7 +18,7 @@ author_profile: true
 <h2 style='margin-top:0'>2025</h2>
 
 <li>
-<b>Nordquist E</b>, Zhang M<sup>#</sup>, Yu W, MacKerell A. Computational modeling of PROTAC ternary complexes as ensembles using SILCS-PROTAC. <b>J. Med. Chem.</b> (submitted) 2025. 
+<b>Nordquist E</b>, Zhang M, Yu W, MacKerell A. Computational modeling of PROTAC ternary complexes as ensembles using SILCS-PROTAC. <b>J. Med. Chem.</b> (submitted) 2025. 
 <a href="https://doi.org/">ChemRxiv</a>
 </li>
 
