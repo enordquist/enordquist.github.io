@@ -18,6 +18,12 @@ author_profile: true
 <h2 style='margin-top:0'>2025</h2>
 
 <li>
+<b>Nordquist E</b>, Zhang M<sup>#</sup>, Yu W, MacKerell A. Computational modeling of PROTAC ternary complexes as ensembles using SILCS-PROTAC. <b>J. Med. Chem.</b> (submitted) 2025. 
+<a href="https://doi.org/">ChemRxiv</a>
+</li>
+
+
+<li>
 Patel R, <b>Nordquist E</b>, Polli J. Prediction of surfactant-mediated dissolution of poorly soluble drugs from drug powder. <b>Eur. J. Pharm. Sci.</b> 2025, 107052.
 <a href="https://doi.org/10.1016/j.ejps.2025.107052">DOI</a>
 <!-- <a href="x">x</a> -->
