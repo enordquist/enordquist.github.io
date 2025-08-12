@@ -12,6 +12,8 @@ I like to unwind by listening to some podcasts, and thinking or discussing about
 <br>
 [Within Reason (Alex O'Connor)](https://www.youtube.com/@CosmicSkeptic)
 <br>
+[Gospel Tangents (Rick Bennett)](https://www.youtube.com/@GospelTangents)
+<br>
 [In Our Time](https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ)
 <br>
 [Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)

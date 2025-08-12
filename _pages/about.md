@@ -20,7 +20,7 @@ I am currently a postdoc in Alex MacKerell's <a href="https://mackerell.umarylan
 Long-term goal: Professor
 ---
 <div style="text-align: justify">
-I am working towards becoming a professor teaching gen chem, physical chem, biophysics, etc and leading a research group that introduces new students to computational biophysical methods towards better understanding of protein-ligand interactions and protein structure-function relationships. I've mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
+I am working towards becoming a professor at a Primarily-Undergraduate Instituation, which I will teach introductory classes, physical chem, biophysics, etc as well as lead a small-but-powerful research lab that introduces new students to the exciting world of computational biophysics. My program will improve our understanding of protein-ligand interactions and protein structure-function relationships. I currently have experience mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
 </div>
 
 
