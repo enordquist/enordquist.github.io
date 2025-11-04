@@ -7,5 +7,5 @@ tags:
 
 ---
 
-<img src="/images/service_award.jpg" height="150" /><br>
+<img src="/images/service_award.jpeg" height="150" /><br>
 I was awarded the Postdoctoral Fellow Excellence in Service Award. It was a great honor to be recognized by the University for all the work I do with outreach to local students.
