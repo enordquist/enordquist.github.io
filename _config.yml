@@ -196,6 +196,9 @@ collections:
   hobbies:
     output: true
     permalink: /:collection/:path/
+  wiki:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -334,3 +337,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Search function
+search: true
+search_provider: lunr
+lunr:
+  search_within_pages: true   # allow full-page content search
+  search_full_content: true   # index entire page content
+  collections: ["wiki"]
+

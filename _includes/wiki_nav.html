@@ -1,0 +1,64 @@
+{% include base_path %}
+
+<div id="wiki-nav">
+  <h3>Wiki Topics</h3>
+</div>
+
+<ul class="nav">
+  {% assign wiki_pages = site.wiki | sort: "order" %}
+
+  {% assign top_level_dirs = "" | split: "" %}
+  {% for page_item in wiki_pages %}
+    {% assign parts = page_item.path | split:'/' %}
+    {% if parts.size > 1 %}
+      {% assign dir = parts[1] %} <!-- Use 2nd part as topic -->
+    {% else %}
+      {% assign dir = parts[0] %}
+    {% endif %}
+    {% unless top_level_dirs contains dir %}
+      {% assign top_level_dirs = top_level_dirs | push: dir %}
+    {% endunless %}
+  {% endfor %}
+
+  {% for dir in top_level_dirs %}
+    {% assign pages_in_dir = "" | split: "" %}
+    {% for page_item in wiki_pages %}
+      {% assign parts = page_item.path | split:'/' %}
+      {% if parts.size > 1 %}
+        {% assign page_dir = parts[1] %}
+      {% else %}
+        {% assign page_dir = parts[0] %}
+      {% endif %}
+      {% if page_dir == dir %}
+        {% assign pages_in_dir = pages_in_dir | push: page_item %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign is_active_topic = false %}
+    {% for child in pages_in_dir %}
+      {% if child.url == page.url %}
+        {% assign is_active_topic = true %}
+      {% endif %}
+    {% endfor %}
+
+    <li class="nav-item">
+      {% if pages_in_dir.size > 1 %}
+        <span class="toggle {% if is_active_topic %}expanded{% endif %}">{{ dir }}</span>
+        <ul class="nested {% if is_active_topic %}active{% endif %}">
+          {% for child in pages_in_dir %}
+            <li class="nav-item">
+              <a href="{{ child.url }}">{{ child.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        {% assign single_page = pages_in_dir | first %}
+        <a href="{{ single_page.url }}">{{ single_page.title }}</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+<link rel="stylesheet" href="{{ '/assets/css/wiki-nav.css' | relative_url }}">
+<script src="{{ '/assets/js/wiki-nav.js' | relative_url }}"></script>
+
