@@ -8,7 +8,7 @@ tags:
 
 ---
 
-<br/><img src="/images/phd-defense-robes.jpg" height="150" /><br>
+<br/><img src="/images/phd-defense-robes.jpg" weight="500" /><br>
 I gave my final PhD dissertation defense on Monday, June 5th 2023. This was a very special day, and week, to reflect on the work I've done and the progress I've made as a scientist, and to share that progress with my family, friends, and the academic community here in Amherst. It's been a wonderful and challenging expeirence.
 
 I was very grateful that my parents, brother, aunt and mother-in-law were able to come share in the experience of the defense! And of course, my wife Zoe was there to support me throughout the process, from visiting UMass in March of 2018, to joining Jianhan's group in December, through many years of hard work and success, and now completing my degree and celebrating with her.
