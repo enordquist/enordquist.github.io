@@ -3,7 +3,7 @@ layout: wiki
 parent: wiki
 wiki_id: vmd
 title: "VMD"
-permalink: /wiki/vmd
+permalink: /wiki/vmd/
 pinned: true
 order: 2
 ---

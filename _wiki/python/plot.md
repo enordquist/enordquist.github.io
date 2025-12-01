@@ -4,7 +4,7 @@ parent: python
 wiki_id: pythonplot
 title: "Plotting data in Python"
 description: "Quick tutorial in plotting"
-permalink: /wiki/python/plot
+permalink: /wiki/python/plot/
 pinned: true
 order: 2
 ---

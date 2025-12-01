@@ -4,7 +4,7 @@ parent: python
 wiki_id: pythonstart
 title: "Getting started in python"
 description: "A brief introduction to core concepts"
-permalink: /wiki/python/start
+permalink: /wiki/python/start/
 pinned: true
 order: 1
 ---

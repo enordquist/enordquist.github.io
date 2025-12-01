@@ -4,7 +4,7 @@ parent: bash
 id: editors
 title: "Text editors"
 description: "Brief discussion of text file editors"
-permalink: /wiki/bash/editors
+permalink: /wiki/bash/editors/
 pinned: true
 order: 2
 ---

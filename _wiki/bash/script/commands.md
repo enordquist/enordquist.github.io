@@ -4,7 +4,7 @@ parent: bashscript
 wiki_id: bashscriptcommands
 title: "Bash commands"
 description: "Simple commands chained together for fast and powerful effects"
-permalink: /wiki/bash/script/commands
+permalink: /wiki/bash/script/commands/
 pinned: true
 order: 3
 ---

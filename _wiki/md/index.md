@@ -4,7 +4,7 @@ parent: wiki
 wiki_id: md
 title: "Molecular Dynamics simulations"
 description: "Introductory survey of molecular dynamics simluations and related concepts"
-permalink: /wiki/md
+permalink: /wiki/md/
 pinned: true
 order: 3
 ---

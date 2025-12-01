@@ -3,7 +3,7 @@ layout: wiki
 parent: vmd
 wiki_id: materials
 title: "materials"
-permalink: /wiki/vmd/materials
+permalink: /wiki/vmd/materials/
 pinned: true
 order: 3
 ---

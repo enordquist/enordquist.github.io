@@ -4,7 +4,7 @@ parent: vmd
 wiki_id: vmdsave
 title: "Save settings and visualization states"
 default: "Don't fight against this powerful, configurable tool!"
-permalink: /wiki/vmd/save
+permalink: /wiki/vmd/save/
 pinned: true
 order: 2
 ---

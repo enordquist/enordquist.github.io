@@ -4,7 +4,7 @@ parent: bash
 wiki_id: unix
 title: "Unix filesystem"
 description: "Creating, deleting, and manipulating files and directories in Unix"
-permalink: /wiki/bash/unix
+permalink: /wiki/bash/unix/
 pinned: true
 order: 1
 ---

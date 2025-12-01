@@ -4,7 +4,7 @@ parent: md
 wiki_id: engines
 title: "Engines"
 description: "Brief list of major MD sofware"
-permalink: /wiki/md/engines
+permalink: /wiki/md/engines/
 pinned: true
 order: 2
 ---

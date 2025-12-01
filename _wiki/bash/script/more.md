@@ -4,7 +4,7 @@ parent: bashscript
 wiki_id: bashscriptmore
 title: "More"
 description: "Additional commands and concepts"
-permalink: /wiki/bash/script/more
+permalink: /wiki/bash/script/more/
 pinned: true
 order: 5
 ---

@@ -4,7 +4,7 @@ parent: bash
 wiki_id: slurm
 title: "The Slurm Scheduler"
 description: "Introduction to the Slurm Scheduler"
-permalink: /wiki/bash/slurm
+permalink: /wiki/bash/slurm/
 pinned: true
 order: 7
 ---

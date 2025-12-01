@@ -3,7 +3,7 @@ layout: wiki
 parent: bash
 wiki_id: bashscript
 title: "Bash scripting"
-permalink: /wiki/bash/script
+permalink: /wiki/bash/script/
 description: "Single commands, chains of commands, and full scripts"
 pinned: true
 order: 2

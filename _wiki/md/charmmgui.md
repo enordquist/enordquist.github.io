@@ -4,7 +4,7 @@ parent: md
 wiki_id: charmmgui
 title: "CHARMM-GUI"
 description: "A powerful online tool for setting up simulations"
-permalink: /wiki/md/charmmgui
+permalink: /wiki/md/charmmgui/
 pinned: true
 order: 1
 ---

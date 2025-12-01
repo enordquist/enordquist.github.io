@@ -4,7 +4,7 @@ parent: md
 wiki_id: forcefields
 title: "Force Fields"
 description: "Brief list of major force fields"
-permalink: /wiki/md/forcefields
+permalink: /wiki/md/forcefields/
 pinned: true
 order: 3
 ---
