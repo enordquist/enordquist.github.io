@@ -272,6 +272,14 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  # _wiki
+  - scope:
+      path: ""
+      type: wiki
+    values:
+      layout: wiki
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:

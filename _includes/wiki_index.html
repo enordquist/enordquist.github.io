@@ -1,0 +1,17 @@
+<h2>Topics:</h2>
+<ul class="wiki-index">
+  {% assign path_parts = page.path | split: "/" %}
+  {% assign current_file = path_parts | pop %}
+  {% assign current_dir = current_file | join: "/" %}
+
+  {% assign sorted_pages = site.wiki | sort: "order" %}
+
+  {% for p in sorted_pages %}
+    {% if p.url != page.url and p.path contains current_dir %}
+      <li>
+        <a href="{{ p.url }}">{{ p.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
