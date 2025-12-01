@@ -1,15 +1,7 @@
 <h2>Topics:</h2>
 <ul class="wiki-index">
-  {% assign current_dir = page.path | split: "/" | pop | join: "/" %}
-
-  {% assign sorted_pages = site.wiki | sort: "order" %}
-
-  {% for p in sorted_pages %}
-    {% if p.url != page.url and p.path contains current_dir %}
-      <li>
-        <a href="{{ p.url }}">{{ p.title }}</a>
-      </li>
-    {% endif %}
+  {% assign children = site.wiki | where: "parent", page.wiki_id | sort: "order" %}
+  {% for p in children %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
   {% endfor %}
 </ul>
-

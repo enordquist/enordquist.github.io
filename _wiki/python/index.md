@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: wiki
+wiki_id: python
 title: "Python"
 description: "A popular, ubiquitous, and (relatively) easy programming language"
 permalink: /wiki/python

@@ -1,5 +1,6 @@
 ---
 layout: wiki
+wiki_id: wiki
 title: "Wiki"
 description: "A wiki for computational chemistry / molecular mechanics"
 permalink: /wiki/

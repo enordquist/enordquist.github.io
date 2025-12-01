@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: bashscript
+wiki_id: bashscriptloops
 title: "Looping"
 description: "Conditionals, loops, and job control"
 permalink: /wiki/bash/script/loops

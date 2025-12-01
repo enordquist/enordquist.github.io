@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: python
+wiki_id: pythonstart
 title: "Getting started in python"
 description: "A brief introduction to core concepts"
 permalink: /wiki/python/start

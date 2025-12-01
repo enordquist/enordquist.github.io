@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: bashscript
+wiki_id: bashscriptcommands
 title: "Bash commands"
 description: "Simple commands chained together for fast and powerful effects"
 permalink: /wiki/bash/script/commands

@@ -1,5 +1,7 @@
 ---
 layout: wiki
+wiki_id: bash
+parent: wiki
 title: "Bash"
 permalink: /wiki/bash/
 description: "A very popular shell environment"

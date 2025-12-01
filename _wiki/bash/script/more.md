@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: bashscript
+wiki_id: bashscriptmore
 title: "More"
 description: "Additional commands and concepts"
 permalink: /wiki/bash/script/more

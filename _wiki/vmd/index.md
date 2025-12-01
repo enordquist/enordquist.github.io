@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: wiki
+wiki_id: vmd
 title: "VMD"
 permalink: /wiki/vmd
 pinned: true

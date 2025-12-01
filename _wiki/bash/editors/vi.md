@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: editors
+wiki_id: vi
 title: "vi - VIsual editor"
 description: "This is my preferred editor for writing text files including scripts."
 permalink: /wiki/bash/editors/vi

@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: bash
+wiki_id: bashscript
 title: "Bash scripting"
 permalink: /wiki/bash/script
 description: "Single commands, chains of commands, and full scripts"

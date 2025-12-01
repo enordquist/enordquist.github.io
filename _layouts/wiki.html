@@ -19,12 +19,12 @@ layout: default
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
 
-    {% if page.url != "/wiki/" %}
-      {% assign parent = page.url | split: "/" | pop | join: "/" | append: "/" %}
-      <a href="{{ parent }}">↑ Up</a>
-    {% endif %}
-
       <h1 class="page__title">{{ page.title }}</h1>
+      {% if page.url != "/wiki/" %}
+        {% assign parent = page.url | split: "/" | pop | join: "/" | append: "/" %}
+        <a href="{{ parent }}">↑ Up</a>
+      {% endif %}
+
     {% endunless %}
     {{ content }}
   </div>

@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: python
+wiki_id: numpy
 title: "Vectorization"
 description: "Efficient computation via vectorization"
 permalink: /wiki/python/numpy

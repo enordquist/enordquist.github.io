@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: md
+wiki_id: engines
 title: "Engines"
 description: "Brief list of major MD sofware"
 permalink: /wiki/md/engines
@@ -11,24 +13,21 @@ The MD engine is the sofware that calculates the forces and propagates the atoms
 
 ## MD Engines
 1. **CHARMM**
-  - Immensely powerful, flexible
-  - slow (academic free version requires OpenMM plugin for GPU support)
-  - FORTRAN-like scripting interface
-  - Major learning curve, but a great place to start for deep understanding
+  - Immensely flexible FORTRAN-like scripting interface
+  - academic version needs OpenMM plugin for GPU support
+  - steep learning curve but excellent for deep understanding
   - [pyCHARMM](https://github.com/BrooksResearchGroup-UM/pyCHARMM-Workshop) python wrapper
   - [documentation](https://academiccharmm.org/documentation)
   - [forum](https://forums-academiccharmm.org/)
 1. **GROMACS**
   - Popular, well-documented, easy to use
-  - No scripting interface
   - At fundamental level, designed for efficiency: be careful and stay up to date on documentation/errors etc.
   - [plumed](https://plumed.org) support for enhanced sampling
   - [documentation](https://manual.gromacs.org/)
   - [tutorials](https://www.gromacs.org/tutorial_webinar.html)
   - [Lemkul lab tutorial](http://www.mdtutorials.com/gmx/index.html)
 1. **OpenMM**
-  - fast, well optimized for GPU
-  - python interface
+  - fast, python interface, well optimized for GPU
   - generally seen as easiest to contribute to due to implementation details
   - [plumed](https://plumed.org) support for enhanced sampling
   - [documentation](https://openmm.org/documentation)

@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: bash
+wiki_id: gnuplot
 title: "GNUplot"
 description: "Introduction to the GNU Plotting utility"
 permalink: /wiki/bash/gnuplot

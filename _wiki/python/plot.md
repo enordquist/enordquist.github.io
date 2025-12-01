@@ -1,5 +1,7 @@
 ---
 layout: wiki
+parent: python
+wiki_id: pythonplot
 title: "Plotting data in Python"
 description: "Quick tutorial in plotting"
 permalink: /wiki/python/plot
