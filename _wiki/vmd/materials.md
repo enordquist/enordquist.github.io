@@ -2,7 +2,7 @@
 layout: wiki
 parent: vmd
 wiki_id: materials
-title: "materials"
+title: "Materials"
 permalink: /wiki/vmd/materials/
 pinned: true
 order: 3
