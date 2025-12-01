@@ -4,7 +4,7 @@ title: "More"
 description: "Additional commands and concepts"
 permalink: /wiki/bash/script/more
 pinned: true
-order: 4
+order: 5
 ---
 
 While there are always more commands one can learn, I've tried to give a list of some very commonly used ones which are not quite as urgent to learn for beginners, but essential for proficiency. Let me know if more should be added.

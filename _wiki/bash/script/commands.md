@@ -4,7 +4,7 @@ title: "Bash commands"
 description: "Simple commands chained together for fast and powerful effects"
 permalink: /wiki/bash/script/commands
 pinned: true
-order: 2
+order: 3
 ---
 
 The Unix programming paradigm is built around small programs that read and write plain text in simple, predictable ways. By chaining tools together with redirection and pipes, complex workflows become compact and expressive. This approach is powerful for quickly processing large text files like logs, or large text-based datasets, all right at the command line.
@@ -17,6 +17,7 @@ Many excellent and free Unix and bash tutorials are available online, such as th
 
 1. ***Inspecting files:*** view the beginning or end of a file
 ```
+less file
 head -n 5 file
 tail -f output.log
 ```

@@ -4,7 +4,7 @@ title: "Text editors"
 description: "Brief discussion of text file editors"
 permalink: /wiki/bash/editors
 pinned: true
-order: 4
+order: 2
 ---
 
 Text editors are where you will spend the majority of your time, writing scripts for bash/slurm to run simulations, editing simulation input parameter files, writing analysis scripts in python, etc. You will want to get comfortable using one which helps you to be productive! For quick, one-off tasks, the GNOME Text Editor ```gedit``` works fine. In the long run, you will want something with more advanced features and integration into bash. ***NOTE:*** Don't use LibreOffice or MS Word!

@@ -4,7 +4,7 @@ title: "Unix filesystem"
 description: "Creating, deleting, and manipulating files and directories in Unix"
 permalink: /wiki/bash/unix
 pinned: true
-order: 2
+order: 1
 ---
 
 Bash, or the born again shell, is a very popular and well-documented command line shell environment for working in the Unix filesystem, and consists of directories (like folders) and files. There are many good overviews to the shell environment I prefer: bash or the born-again shell. The internet is full of great tutorials on unix and bash commands and scripting.
