@@ -1,8 +1,6 @@
 <h2>Topics:</h2>
 <ul class="wiki-index">
-  {% assign path_parts = page.path | split: "/" %}
-  {% assign current_file = path_parts | pop %}
-  {% assign current_dir = current_file | join: "/" %}
+  {% assign current_dir = page.path | split: "/" | pop | join: "/" %}
 
   {% assign sorted_pages = site.wiki | sort: "order" %}
 
