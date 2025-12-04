@@ -8,20 +8,14 @@
 (function() {
   var stage = new NGL.Stage("viewport-{{ include.id | default: 'ngl' }}");
 
-  stage.setParameters( { backgroundColor: "white" } )
+  stage.setParameters( { backgroundColor: "white" } );
 
   stage.loadFile("https://files.rcsb.org/download/{{ include.pdb }}.pdb")
     .then(function(o) {
 
-      // protein cartoon
-      o.addRepresentation("cartoon", { color: "sstruc" });
+      o.addRepresentation("cartoon", { color: "sstruc" }) ;
 
-      // heteroatoms (heme, ligands, metals)
-      o.addRepresentation("ball+stick", {
-        sele: "hetero",
-        scale: 3.0,
-        color: "element"
-      });
+      o.addRepresentation("ball+stick", { sele: "hetero", scale: 3.0, color: "element" });
 
       o.autoView();
     });
