@@ -1,0 +1,33 @@
+<div id="viewport-{{ include.id | default: 'ngl' }}"
+     style="width: {{ include.width | default: '600px' }};
+            height: {{ include.height | default: '400px' }};
+            margin: 1em 0;">
+</div>
+
+<script>
+(function() {
+  var stage = new NGL.Stage("viewport-{{ include.id | default: 'ngl' }}");
+
+  stage.setParameters( { backgroundColor: "white" } )
+
+  stage.loadFile("https://files.rcsb.org/download/{{ include.pdb }}.pdb")
+    .then(function(o) {
+
+      // protein cartoon
+      o.addRepresentation("cartoon", { color: "sstruc" });
+
+      // heteroatoms (heme, ligands, metals)
+      o.addRepresentation("ball+stick", {
+        sele: "hetero",
+        scale: 3.0,
+        color: "element"
+      });
+
+      o.autoView();
+    });
+
+  window.addEventListener("resize", function() {
+    stage.handleResize();
+  });
+})();
+</script>
