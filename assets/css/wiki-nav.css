@@ -1,8 +1,0 @@
-.nav { list-style: none; padding-left: 0; }
-.nav-item { margin: 0.2em 0; }
-.nested { display: none; list-style: none; padding-left: 1em; }
-.nested.active { display: block; }
-.toggle { cursor: pointer; user-select: none; }
-.toggle::before { content: "▶ "; display: inline-block; transition: transform 0.2s; }
-.toggle.expanded::before { transform: rotate(90deg); }
-
