@@ -15,19 +15,19 @@ The Unix programming paradigm can also allow for programming technqiues like loo
 
 ## Conditionals, loops, and job control:
 1. ***Conditional statements:*** run commands only when some condition is met
-```
+```bash
 if [ -f dir/file ]; then echo "file found"; fi
 if [ -d dir ]; then echo "dir found"; fi
 ```
 
 1. ***Looping:*** repeat commands
-```
+```bash
 for i in {1..10}; do echo -n "$i "; done
 while read -r line; do echo "$line"; done < file
 ```
 
 1. ***Job control:*** run commands in the background
-```
+```bash
 script.sh &
 top
 kill pid

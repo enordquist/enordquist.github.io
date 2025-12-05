@@ -13,7 +13,7 @@ On shared computing resources, which can range from a small network to a high-pe
 
 ### Simple Slurm job template
 Submitting a job to slurm scheduler would look like: ```sbatch job.cmd```, where ```job.cmd``` is very similar to a bash-style script with a few key differences. Here's a simple example:
-```
+```bash
 #!/bin/bash
 #SBATCH --job-name=myjob
 #SBATCH --nodes=1               # allocate 1 node

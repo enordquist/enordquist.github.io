@@ -16,7 +16,7 @@ After that, undertake some challenges. Find something that sparks your interets 
 
 ### Challenge 1: Print a diamond
 Try to print shapes (squares, triangles, diamonds) of any size based on a user-supplied input. Start with a square, then try prining an equilateral triangle, then a diamond. Try to use previous code, perhaps saved in functions, for successive projects if possible. Use the code snippet below to get you started on ```shape.py```. You should improve it so that if a user supplies anthing other than a ***positive integer*** (e.g. letters, negative numbers, non-integers), there is a helpful error message!
-```
+```python
 import sys
 dim = sys.argv[1]
 for i in range(dim):

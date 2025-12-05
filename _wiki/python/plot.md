@@ -20,7 +20,7 @@ X1 Y1 Y2 Y3
 5 5 25 125
 ```
 
-```
+```python
 #!/usr/bin/env python3
 import numpy as np
 import matplotlib.pyplot as plt

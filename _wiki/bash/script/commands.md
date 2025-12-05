@@ -18,25 +18,25 @@ Many excellent and free Unix and bash tutorials are available online, such as th
 ## A non-complete list of commands, plus redirection
 
 1. ***Inspecting files:*** view the beginning or end of a file
-```
+```bash
 less file
 head -n 5 file
 tail -f output.log
 ```
 1. ***Regular expressions:*** search, filter, and edit text
-```
+```bash
 grep -E 'error|fail' file
 sed 's/:/ /g' file
 ```
 
 1. ***Column-based processing:*** extract columns, compute values, filter lines
-```
+```bash
 awk -F, '{print $1,$3,($1-$3)/$3*100}' file
 awk -v cut=100 'BEGIN{sum=0; n=0}{if ($1>cut){sum+=$1; n++}}END{printf "%i %.1f\n",n,sum/n}' file
 ```
 
 1. ***Redirection:*** chain smaller commands together, creating powerful tools on the fly
-```
+```bash
 echo "REMARK Manually created $(date)" > 1mbd_hsd.pdb
 grep -E "ATOM|CA" 1mbn.pdb | sed 's/HIS/HSD/g' >> 1mbd_hsd.pdb
 python run_simulation.py | tee output.log
@@ -51,7 +51,7 @@ python run_simulation.py &> output_error.log
 Suppose each log contains a line like: ```Final energy: -1342.883 kcal/mol```
 
 Extract energies and sort simulations by stability:
-```
+```bash
 grep "Final energy" run_*.log \
 | sed 's/:/ /' \
 | awk '{print $1, $3}' \
@@ -70,6 +70,6 @@ step energy
 4  -529.7
 ```
 Count entries below a cutoff and compute the average:
-```
+```bash
 awk -v cutoff=-531 'NR>1 && $2<cutoff {sum+=$2; count++} END {printf "N=%d  mean=%.2f\n", count, sum/count}' energy.dat
 ```
