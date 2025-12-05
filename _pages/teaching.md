@@ -42,6 +42,7 @@ Check-out how it went [here](/posts/2022/12/1stclass)
 2. (Guest moderator) Student-led discussion on AlphaFold2 Nature paper; Amherst College Biophysics Seminar
   - Mar 2023, Instructor: Dr. Ashley Carter
 3. Drug design and CADD in Cancer Biology; UMB Grad. Program in Life Science 665 Cancer Biology: From Basic Research to the Clinic
-  - Sep 2023, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
+  - Oct 2025, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
   - Oct 2024, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
+  - Sep 2023, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
 
