@@ -1,18 +1,15 @@
 # Authors
+# if not specified in post, then site author is used (as on every page)
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Zoe Nordquist:
+  name            : "Zoe Nordquist"
+  uri             : "https://zoe-elena.com"
+  bio             : "Artist and Musician. Don't create what you see, create what you know"
+  avatar          : "zoe.jpg"
+  youtube         : "@justzoeelena307"
+  instagram       : "just_zoeeelena"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Nordquist family:
+  name        : "Nordquist family"
+  bio         : "Est. 2020"
+  avatar      : "nordquist-family.jpg"

@@ -1,0 +1,36 @@
+<div id="viewport-{{ include.id | default: 'ngl' }}"
+     style="width: {{ include.width | default: '600px' }};
+            height: {{ include.height | default: '400px' }};
+            margin: 1em 0;">
+</div>
+
+<script>
+(function() {
+  stage = new NGL.Stage("viewport-{{ include.id | default: 'ngl' }}");
+
+  let determineThemeSetting = () => {
+  let themeSetting = localStorage.getItem("theme");
+  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
+  };
+
+  function nglBackgroundFromTheme() {
+    const theme = determineThemeSetting();
+    return theme === "dark" ? "black" : "white";
+  }
+
+  stage.setParameters({ backgroundColor: nglBackgroundFromTheme() });
+
+  stage.loadFile("https://files.rcsb.org/download/{{ include.pdb }}.pdb")
+    .then(function(o) {
+      o.addRepresentation("cartoon", { color: "sstruc" });
+      o.addRepresentation("ball+stick", { sele: "hetero", scale: 3.0, color: "element" });
+      o.autoView();
+    });
+
+  window.addEventListener("resize", function() {
+    stage.handleResize();
+  });
+})();
+</script>
+
+

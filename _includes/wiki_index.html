@@ -1,0 +1,7 @@
+<h2>Topics:</h2>
+<ul class="wiki-index">
+  {% assign children = site.wiki | where: "parent", page.wiki_id | sort: "order" %}
+  {% for p in children %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a>: {{ p.description}}</li>
+  {% endfor %}
+</ul>
