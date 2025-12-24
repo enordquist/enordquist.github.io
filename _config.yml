@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The other option is: "air"
+site_theme               : "default" # Options: "default", "air", "mint"
 title                    : "Erik Nordquist"
 title_separator          : "-"
 name                     : &name "Erik Nordquist"
