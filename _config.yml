@@ -24,9 +24,9 @@ author:
   # Biographic information
   name             : "Erik Nordquist"
   avatar           : "profile.jpg"
-  pronouns         : #"he/him"
+  pronouns         : "he/him"
   bio              : "Postdoctoral Research Fellow" 
-  location         : #"Baltimore, MD" #"Amherst MA"
+  location         : #"Baltimore, MD"
   employer         : "UM Baltimore"
   uri              : #"eriknordquist.com"
 
@@ -54,7 +54,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  youtube          : "eriknordquist" #"UCfoPDaiMX0CJ2JjKGDT-VMQ"
+  youtube          : "eriknordquist"
   linkedin         : "erik-nordquist"
   artstation       : # Username
   bluesky          : # Username
