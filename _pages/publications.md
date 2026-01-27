@@ -105,6 +105,8 @@ Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accel
 </ol>
 
 
-<sup>#</sup>These authors contributed equally to the work.
-DOI: Digital Object Identifiers are a way to "permanently" reference an important work online. The reader can click on the DOI link and expect it to take you to the final work, even if the publisher has changed.
-PMC: PubMed Central is a free, full-text archive of science literature at the United States National Institutes of Health (NIH) National Library of Medicine (NLM). Scientists who recieve funding from the NIH must submit a version of their work to this archive.
+<b><sup>#</sup></b>These authors contributed equally to the work.
+
+<b>DOI</b>: Digital Object Identifiers are a way to "permanently" reference an important work online. The reader can click on the DOI link and expect it to take you to the final work, even if the publisher has changed.
+
+<b>PMC</b>: PubMed Central is a free, full-text archive of science literature at the United States National Institutes of Health (NIH) National Library of Medicine (NLM). Scientists who recieve funding from the NIH must submit a version of their work to this archive.
