@@ -101,7 +101,8 @@ Gong X, Chiricotto M, Liu X, <b>Nordquist E</b>, Feig M, Brooks C, Chen J. Accel
 <hr>
 <ol>
 <h2 style='margin-top:0'>Book Chapters</h2>
-<li><b>Nordquist E</b>, Horrigan F, MacKerell A. Computational ligand binding site prediction. <b>Springer Nature</b> (accepted) 2025.</li>
+<li><b>Nordquist E</b>, Horrigan F, MacKerell A. Computational ligand binding site prediction. Part of "Unlocking Protein Structure-Function Relationships: Computational and Experimental Approaches and Applications."<b>Springer Nature</b> 2026.</li>
+<a href="https://doi.org/10.1007/978-3-032-07511-6">DOI</a>
 </ol>
 
 
