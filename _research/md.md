@@ -21,7 +21,7 @@ F_{charge} = k_e \frac{q_1 q_2}{r^2}
 }
 $$
 
-This means that a lot of the world's supercomputer time is spent similar calculations whether astrophysical or biophysical. It is still an evocative mystery why there is this symmetry between the forces acting on stars and on atoms.<br> <br>
+This means that a lot of the world's supercomputer time is spent performing similar calculations whether astrophysical or biophysical. This fascinating symmetry between the forces acting on stars and on atoms arises because both are carried by fields that emanate outward uniformly into three-dimensional space, so that their strength decays in proportion to the increasing surface area onto which they project.<br> <br>
 </div>
 
 If you want to get an idea about how MD works, you can play with this free, online [interactive MD simulator](https://physics.weber.edu/schroeder/md/), or you can fall down the [MD Wikipedia rabbit hole](https://en.wikipedia.org/wiki/Molecular_dynamics).
