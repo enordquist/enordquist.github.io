@@ -3,7 +3,7 @@ layout: archive
 title: "Cirriculum Vitae"
 permalink: /cv/
 author_profile: true
-last_updated: 2026-03-06
+last_updated: 2026-04-13
 redirect_from:
   - /resume
 ---
