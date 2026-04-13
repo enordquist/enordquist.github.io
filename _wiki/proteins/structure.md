@@ -12,7 +12,7 @@ order: 3
 Proteins fold spontaneously into complex 3-dimensional structures in salt water at room and body temperatures, and they are not only critical for life (and mis-folding critical causes of disease), but also stunningly beautiful to behold! You can spend hours on the World Wide Protein Data Bank ([wwPDB](https://rcsb.org)), looking at various structures. Play around with these below! You can rotate and enlarge the structures. Notice the various secondary structures such as $$\alpha$$ helices (purple) and $$\beta$$ sheets (yellow), which are formed by hydrogen-bonding between residue's amide and carbonyl groups.
 
 ### Myoglobin (1mbn)
-This is one of the proteins responsible for binding to O<sub>2</sub> and CO<sub>2</sub> using the Fe-binding molecule protoporphyrin. Myoglobin is significant in the study of protein structure, as it is the first protein to be solved via x-ray crystallography in 1957.
+This is one of the proteins responsible for binding to O<sub>2</sub> and CO<sub>2</sub> using the molecule Heme. Myoglobin is significant in the study of protein structure, as it is the first protein to be solved via x-ray crystallography in 1957.
 {% include nglviewer.html pdb="1mbn" id="myoglobin" width="500px" height="400px" %}
 
 ### Chaperone (1dkz)
