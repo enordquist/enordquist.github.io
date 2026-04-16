@@ -10,7 +10,7 @@ order: 3
 ---
 
 ### Efficient computation via vectorization in the `numpy` library
-**Note:** This is more of an advanced topic, something to be aware of if you are running slow code but not totally necessary. In a [previous challenge](/wiki/python/start), you may have created a program to estimate $\pi$ via a simple Monte Carlo simulation. A simple loop in python is not efficient if one wants to evaluate millions or billions of operations! Vectorization implemented in ```numpy``` allows more efficient computations to be carried using very efficient linear algebra implementations in programming languages like C or Fortran. Here is an example code for estimating $\pi$ using ```numpy``` (installed with `mamba install numpy` if needed):
+**Note:** This is more of an advanced topic, something to be aware of if you are running slow code but not totally necessary. In a [previous challenge](/wiki/python/start), you may have created a program to estimate $$\pi$$ via a simple Monte Carlo simulation. A simple loop in python is not efficient if one wants to evaluate millions or billions of operations! Vectorization implemented in ```numpy``` allows more efficient computations to be carried using very efficient linear algebra implementations in programming languages like C or Fortran. Here is an example code for estimating $$\pi$$ using ```numpy``` (installed with `mamba install numpy` if needed):
 
 ```python
 import numpy as np
