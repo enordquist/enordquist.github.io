@@ -26,7 +26,7 @@ The core topics in the field of molecular mechanics I tend to think of as belong
 |-------|--------|---------|
 | **Collective variables** | Can we focus sampling and bias to the "relevant" degree(s) of freedom that drive the process of interest, which we might call a collective variable or reaction coordinate? How can we determine what CV to select? | [RCs and rates, Best and Hummer](https://drive.google.com/file/d/1PC4q1Xlnhm-qiu4Qn-H-GGg3xjNNfIkQ/view)
 |-------|--------|---------|
-| **Free Energy calcs** | Can we predict what processes occur in nature using $\Delta G = \Delta H - T \Delta S $? How tightly do ligands bind? What is the impact of mutations on folding and function? | [Review, Chipot](https://drive.google.com/file/d/1NTjqHzXrbvViElitJs7ldZXLBeJz305E/view) |
+| **Free Energy calcs** | Can we predict what processes occur in nature using $$\Delta G = \Delta H - T \Delta S$$? How tightly do ligands bind? What is the impact of mutations on folding and function? | [Review, Chipot](https://drive.google.com/file/d/1NTjqHzXrbvViElitJs7ldZXLBeJz305E/view) |
 |-------|--------|---------|
 | **General force fields** | If we want to get binding affinities for many arbitrary small molecules (potential drugs), we will need good parameters for them, and fast! | 1. [Comparison, Brooks et al](https://drive.google.com/file/d/1T4pFuLs3LrFJEYmmkVR8t-0R7YBinBJd/view) <br> 2. [GAFF, Case et al](https://drive.google.com/file/d/12-TSJDgS4YE_sGFTnMQ696ceVjLLYO0G/view) <br> 3. [CGenFF, MacKerell et al](https://drive.google.com/file/d/1OLMRnqb5dmStS-tHTAtQUHNToeM3aflB/view) |
 |-------|--------|---------|
