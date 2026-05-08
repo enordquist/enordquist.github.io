@@ -18,7 +18,7 @@ The core topics in the field of molecular mechanics I tend to think of as belong
 |-------|--------|---------|
 | **Force field accuracy** | How accurate and "balanced" can the additive ff get? | [a99sb-disp, D.E. Shaw Research](https://drive.google.com/file/d/1ZGDlI8nNg_oHNqqKtry_OjIrRsGxf5Fk/view)
 |-------|--------|---------|
-| **Polarizabile ff** | Is there a simple way to bring back some electronic degrees of freedom, addressing a core limitation of the additive ff? | [Section III, Case and Ponder](https://drive.google.com/file/d/1yZZv0U7Y_YAUUFFrxb87rNPzOLPYpR1b/view) |
+| **Polarizabile ff** | Is there a simple way to bring back some electronic degrees of freedom, addressing a core limitation of the additive ff? | [Section III, Case and Ponder](https://drive.google.com/file/d/1yZZv0U7Y_YAUUFFrxb87rNPzOLPYpR1b/view) <br> [Drude Review](https://drive.google.com/file/d/1usxEOcc5iKRfazE25sJ893DBnpK2yAAd/view) |
 |-------|--------|---------|
 | **Molecular Mechanics, in practice** | What are the numerical algorithms used? How are atomic positions propagated? How do we sample the appropriate theromdynamic ensemble (NVT, NPT)? | 1. [Integrators](https://drive.google.com/file/d/1YsrCxa37PoUrs_OoDTjQBMvuGumwcsjU/view) <br> 2. [PME](https://drive.google.com/file/d/1ByiuoErLYnlXR5Z92cWcZHJdVrNcmhsF/view) <br> 3. [Thermostats and barostats](https://drive.google.com/file/d/17R4frnlSMptbpUxObkfgz3YKWAdiph8C/view) |
 |-------|--------|---------|

@@ -3,7 +3,7 @@ layout: wiki
 parent: md
 wiki_id: forcefields
 title: "Force Fields"
-description: "brief list of major force fields"
+description: "brief list of major additive force fields"
 permalink: /wiki/md/forcefields/
 pinned: true
 order: 3

@@ -42,5 +42,5 @@ The first molecular dynamics (MD) simulation of a Lennard–Jones fluid (liquid 
   Karplus, Levitt, and Warshel for multiscale modeling: QM, QM/MM, MM.
 
 - **Ongoing and future prospects**
-  Polarizable force fields, machine-learning potentials, and direct prediction of complete ensembles.
+  Polarizable force fields are gaining usage and accuracy, machine-learning potentials, and direct prediction of complete ensembles.
 
