@@ -13,14 +13,14 @@ What am I doing: Postdoc at University of Maryland, Baltimore
 
 <div style="text-align: justify">
 <img align='right' width='350' style='padding-left: 10px' alt='Baltimore Inner Harbor at Nighttime' src='images/NighttimeBaltimore.jpg'>
-I am currently a postdoc in Alex MacKerell's <a href="https://mackerell.umaryland.edu">lab</a> at the University of Maryland, Baltimore. Pictured is the beautiful Inner Harbor on a clear December evening in Baltimore. My research is on computer-aided drug design (CADD), especially in the context of cancer biology. I am working with methods for designing covalent inhibitors and PROTACs/Molecular Glues, and applying those methods to drug targets in cancers alongside experimental collaborators. I am also studying modulators of the BK channel, and collaborating on novel inhibitors of topoisomerases.
+I am currently a postdoc in Alex MacKerell's <a href="https://mackerell.umaryland.edu">lab</a> at the University of Maryland, Baltimore. Pictured is the beautiful Inner Harbor on a clear December evening in Baltimore. My current research focus is on computer-aided drug design (CADD), especially in the context of cancer biology. I am working with methods for designing covalent inhibitors and PROTACs/Molecular Glues, and applying those methods to drug targets in cancers alongside experimental collaborators. I am also studying modulators of the BK channel, and collaborating on novel inhibitors of topoisomerases.
 </div>
 
 
 Long-term goal: Professor
 ---
 <div style="text-align: justify">
-I am working towards becoming a professor particularly at a Primarily-Undergraduate Institution. I'm excited to teach introductory classes, physical chemistry, biophysics, etc as well as lead a research lab that introduces new students to the exciting world of computational biophysics. I currently have experience mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
+I am working towards becoming a professor particularly at a Primarily-Undergraduate Institution. I'm excited to teach introductory classes, physical chemistry, biophysics, etc, and train undergraduates in the exciting world of computational biophysics. My research interests center on determining how molecular processes are changed in confined environments using molecular dynamics simulations. I currently have experience mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
 </div>
 
 
