@@ -14,7 +14,7 @@ author_profile: true
 
 <!--<h2 style='margin-top:0'>Peer-reviewed Articles</h2>-->
 <hr>
-<h2 style='margin-top:0'>2025</h2>
+<h2 style='margin-top:0'>2026</h2>
 
 <li>
 Chan A<sup>#</sup>, Eberly C<sup>#</sup>, Goodis C<sup>#</sup>, <b>Nordquist E</b>, Weldemariam M, Cooper B, Pogash S, Lapidus R, Kane M, MacKerell A, Civin C, Fletcher S. PROTAC Linker Variation (“Linkerology”) Enhances the Degradation Selectivity Profile of a Multi-CDK Inhibitor: Discovery of the Potent, Anti-leukemic Compound AMC-3-221, a CDK9-Selective Degrader. <b>ACS Pharmacol. Transl. Sci.</b> 2026. (under review)
