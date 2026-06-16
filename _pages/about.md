@@ -20,7 +20,7 @@ I am currently a postdoc in Alex MacKerell's <a href="https://mackerell.umarylan
 Long-term goal: Professor
 ---
 <div style="text-align: justify">
-I am working towards becoming a professor particularly at a Primarily-Undergraduate Institution. I'm excited to teach introductory classes, physical chemistry, biophysics, etc, and train undergraduates in the exciting world of computational biophysics. My research interests center on determining how molecular processes are changed in confined environments using molecular dynamics simulations. I currently have experience mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
+I am working towards becoming a professor particularly at a Primarily-Undergraduate Institution. I'm excited to teach introductory classes, physical chemistry, biophysics, etc, and train undergraduates in the exciting world of computational biophysics. My research interests center on using molecular dynamics simulations to study how biological processes are affected in confined environments (pores, pockets, cavities). I currently have experience mentoring research projects while <a href="teaching/mentoring">mentoring undergraduates</a> and <a href="posts/2022/12/1stclass">guiding first-years through mini-projects</a>.
 </div>
 
 
