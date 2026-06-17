@@ -32,8 +32,8 @@ Example output of ```python shape.py 5 diamond```:
   *
 ```
 
-### Challenge 2: Estimate $\pi$
-Run a Monte Carlo-style simulation to estimate the value of $\pi$ by generating a bunch of random "dart throws" at a circlular "dart board" inside a square "wall". If you create random throws that land within a 2x2 square area (e.g. -1 to 1), and make the circular dart board area have radius of 1, then the probability of landing a dart in the board should approach pi/4 for large numbers of throws. You will find the python library ```random``` useful for generating random numbers like dart coordinates.
+### Challenge 2: Estimate $$\pi$$
+Run a Monte Carlo-style simulation to estimate the value of $$\pi$$ by generating a bunch of random "dart throws" at a circlular "dart board" inside a square "wall". If you create random throws that land within a 2x2 square area (e.g. -1 to 1), and make the circular dart board area have radius of 1, then the probability of landing a dart in the board should approach pi/4 for large numbers of throws. You will find the python library ```random``` useful for generating random numbers like dart coordinates.
 ```
 $ python estimate_pi.py 100
 
