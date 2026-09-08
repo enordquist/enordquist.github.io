@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-
 <hr>
-<h2 style='margin-top:0'>Course</h2>
+<h2 style='margin-top:0'>Courses Taught</h2>
+1. General Chemistry I Lab at Stevenson University as adjunct (Fall 2025, Spring 2026, Fall 2026)
+2. First-Year Seminar at UMass Amherst (Fall 2022), 2 sections of 17 students
+
+<h2 style='margin-top:0'>First-Year Seminar</h2>
 ---
 
 I was instructor of record for a self-designed first year seminar course for the Fall semester of 2022, entitled "Order and Chaos". A key motivating topic of the course was the idea that atomic motion can seem chaotic, random, bizzare, and disconnected from the world we live in. Through some final, multi-week long group projects, the students explored ways that random atomic motion can give rise to emergent, stable properties. I also gave the students lots of time and practice writing, reading, speaking and listening to scientific storytelling.
@@ -17,11 +20,9 @@ I was instructor of record for a self-designed first year seminar course for the
 Key topics for the course:
 1. "Think like a scientist"
   * Scientific storytelling skills
-  * Formulate scientific questions
-  * Conduct mini research projects
+  * Formulate scientific questions and mini research projects
   * Assessments included mini-storytelling writings/presentations, and a multi-week final project and presentation
 2. "Hidden cirriculum" of college
-  * Who are professors?
   * Time-management and test-taking skills
   * What resources are available to help students?
 
@@ -42,6 +43,7 @@ Check-out how it went [here](/posts/2022/12/1stclass)
 2. (Guest moderator) Student-led discussion on AlphaFold2 Nature paper; Amherst College Biophysics Seminar
   - Mar 2023, Instructor: Dr. Ashley Carter
 3. Drug design and CADD in Cancer Biology; UMB Grad. Program in Life Science 665 Cancer Biology: From Basic Research to the Clinic
+  - Sep 2026, Instructors: Dr. Rena Lapidus, Dr. Lora Stojanovic
   - Oct 2025, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
   - Oct 2024, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
   - Sep 2023, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
