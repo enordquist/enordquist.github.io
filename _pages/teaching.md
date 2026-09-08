@@ -39,12 +39,9 @@ Check-out how it went [here](/posts/2022/12/1stclass)
 <hr>
 <h2 style='margin-top:0'>Guest Lectures</h2>
 1. Molecular mechanics and additive protein force fields; UMass Chem 586 Statistical Mechanics 
-  - Feb 2020, Instructor: Dr. Jianhan Chen
+  - Feb 2020
 2. (Guest moderator) Student-led discussion on AlphaFold2 Nature paper; Amherst College Biophysics Seminar
-  - Mar 2023, Instructor: Dr. Ashley Carter
+  - Mar 2023
 3. Drug design and CADD in Cancer Biology; UMB Grad. Program in Life Science 665 Cancer Biology: From Basic Research to the Clinic
-  - Sep 2026, Instructors: Dr. Rena Lapidus, Dr. Lora Stojanovic
-  - Oct 2025, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
-  - Oct 2024, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
-  - Sep 2023, Instructors: Dr. Rena Lapidus, Dr. Feyruz Rassool
+  - Sep 2026, Oct 2025, Oct 2024, Sep 2023
 
