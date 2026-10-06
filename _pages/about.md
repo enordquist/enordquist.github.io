@@ -37,6 +37,9 @@ In June 2023, I finished a PhD in Jianhan Chen's <a href="https://people.chem.um
 **BS, The College of Idaho. Caldwell, Idaho**
 <div style="text-align: justify">
 <img align='right' width='350' style="padding-left: 10px" alt='CofI Campus' src='images/CofI.jpg'>
+  <figcaption>
+    <i class="photo-credit">Photo by Adam Eschbach.</i>
+  </figcaption>
 I studied Chemistry and Physics and ran cross-country and track at <a href='https://collegeofidaho.edu'>the College of Idaho</a> and graduated summa cum laude in 2018. The College of Idaho is a great community of students and has excellent, supportive faculty who challenge students in a kind, constructive way. This environment is what I hope to participate in and foster in my career as an educator. I was not involved in research at the C of I, but I participated in an REU at nearby Boise State. I met a representative of UMass through this REU, which led me to grad school and computational biophysics.
 </div>
 
