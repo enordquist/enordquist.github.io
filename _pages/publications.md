@@ -19,7 +19,7 @@ author_profile: true
 <li>
 <b>Nordquist E</b>, MacKerell A. Automated Pharmacophore Hypothesis Generator for SILCS-Pharm: ph4gen. <b>J. Comput. Aided Mol. Des.</b> 2026, 40, 250.
 <a href="https://doi.org/10.1007/s10822-026-00957-5">DOI</a>
-<a href="https://doi.org/10.26434/chemrxiv.15007314/v2">ChemRxiv</a>
+<a href="https://doi.org/10.26434/chemrxiv.15007314/v1">ChemRxiv</a>
 <a href="https://link.springer.com/collections/iifhjcjgii">Special collection</a> honoring Terry Stouch.
 <!--- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMCxxxxx/">PMC</a> --->
 </li>
@@ -27,7 +27,7 @@ author_profile: true
 <li>
 Chan A<sup>#</sup>, Eberly C<sup>#</sup>, Goodis C<sup>#</sup>, <b>Nordquist E</b>, Weldemariam M, Cooper B, Pogash S, Lapidus R, Kane M, MacKerell A, Civin C, Fletcher S. Proteolysis Targeting Chimera (PROTAC) Linkerology Enhances the CDK-Degradation Selectivity Profile of a Multi-CDK Inhibitor: Discovery of Potent, Anti-Leukemic CDK9 Degraders. <b>ACS Pharmacol. Transl. Sci.</b> 2026, 9 (9): 2560–2584.
 <a href="https://doi.org/10.1021/acsptsci.6c00232">DOI</a>
-<!--- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12764353/">PMC</a> --->
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13632899/">PMC</a>
 </li>
 
 <hr>
