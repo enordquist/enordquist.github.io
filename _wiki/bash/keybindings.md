@@ -103,6 +103,6 @@ kill %1
 
 ## References
 
-1. http://cnswww.cns.cwru.edu/php/chet/readline/readline.html
-2. https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/README.md
-3. https://gist.github.com/tuxfight3r/60051ac67c5f0445efee
+1. [Command-line Editing](https://www.gnu.org/software/bash/manual/html_node/Command-Line-Editing.html)
+2. [Readline](https://www.gnu.org/software/bash/manual/html_node/Readline-Interaction.html)
+3. [Bash shortcut cheatsheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/README.md)
