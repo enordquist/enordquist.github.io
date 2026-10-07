@@ -17,13 +17,15 @@ author_profile: true
 <h2 style='margin-top:0'>2026</h2>
 
 <li>
-<b>Nordquist E</b>, MacKerell A. Automated Pharmacophore Hypothesis Generator for SILCS-Pharm: ph4gen. <b>J. Comput. Aided Mol. Des.</b> 2026. (submitted)
-<a href="https://doi.org/10.26434/chemrxiv.15007314/v1">ChemRxiv</a>
-<!--- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12764353/">PMC</a> --->
+<b>Nordquist E</b>, MacKerell A. Automated Pharmacophore Hypothesis Generator for SILCS-Pharm: ph4gen. <b>J. Comput. Aided Mol. Des.</b> 2026, 40, 250.
+<a href="https://doi.org/10.1007/s10822-026-00957-5">DOI</a>
+<a href="https://doi.org/10.26434/chemrxiv.15007314/v2">ChemRxiv</a>
+<a href="https://link.springer.com/collections/iifhjcjgii">Special collection</a> honoring Terry Stouch.
+<!--- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMCxxxxx/">PMC</a> --->
 </li>
 
 <li>
-Chan A<sup>#</sup>, Eberly C<sup>#</sup>, Goodis C<sup>#</sup>, <b>Nordquist E</b>, Weldemariam M, Cooper B, Pogash S, Lapidus R, Kane M, MacKerell A, Civin C, Fletcher S. Proteolysis Targeting Chimera (PROTAC) Linkerology Enhances the CDK-Degradation Selectivity Profile of a Multi-CDK Inhibitor: Discovery of Potent, Anti-Leukemic CDK9 Degraders. <b>ACS Pharmacol. Transl. Sci.</b> 2026.
+Chan A<sup>#</sup>, Eberly C<sup>#</sup>, Goodis C<sup>#</sup>, <b>Nordquist E</b>, Weldemariam M, Cooper B, Pogash S, Lapidus R, Kane M, MacKerell A, Civin C, Fletcher S. Proteolysis Targeting Chimera (PROTAC) Linkerology Enhances the CDK-Degradation Selectivity Profile of a Multi-CDK Inhibitor: Discovery of Potent, Anti-Leukemic CDK9 Degraders. <b>ACS Pharmacol. Transl. Sci.</b> 2026, 9 (9): 2560–2584.
 <a href="https://doi.org/10.1021/acsptsci.6c00232">DOI</a>
 <!--- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12764353/">PMC</a> --->
 </li>
@@ -85,9 +87,10 @@ Zhang L<sup>#</sup>, Barethiya S<sup>#</sup>, <b>Nordquist E</b>, Chen J. Machin
 <h2 style='margin-top:0'>2022</h2>
 
 <li>
-<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. <b>J. Phys. Chem. B</b> 2022, 126, 36, 6780–6791 
+<b>Nordquist E</b>, Clerico E, Chen J, Gierasch L. Computationally-aided modeling of Hsp70-client interactions: past, present, and future. <b>J. Phys. Chem. B</b> 2022, 126, 36, 6780–6791.
 <a href="https://doi.org/10.1021/acs.jpcb.2c03806">DOI</a>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10309085/">PMC</a>
+<a href="https://doi.org/10.1021/acs.jpcb.3c01417">Special collection</a> honoring Harold Scheraga.
 </li>
 
 <li>
