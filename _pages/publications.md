@@ -19,7 +19,7 @@ author_profile: true
 <li>
 <b>Nordquist E</b>, MacKerell A. Automated Pharmacophore Hypothesis Generator for SILCS-Pharm: ph4gen. <b>J. Comput. Aided Mol. Des.</b> 2026, 40, 250.
 <a href="https://doi.org/10.1007/s10822-026-00957-5">DOI</a>
-<a href="https://doi.org/10.26434/chemrxiv.15007314/v1">ChemRxiv</a>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13677103/">PMC</a>
 <a href="https://link.springer.com/collections/iifhjcjgii">Special collection</a> honoring Terry Stouch.
 <!--- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMCxxxxx/">PMC</a> --->
 </li>
